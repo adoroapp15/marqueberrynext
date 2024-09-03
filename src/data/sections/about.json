@@ -1,0 +1,22 @@
+{
+    "title": "Turning Trends  <br/> into Talk of <br/> the Town",
+    "subtitle": "Welcome to Marqueberry",
+    "number": {
+        "value": "14",
+        "label": "Years of Digital Solutions Experience"
+    },
+    "items": [
+        {
+            "title": "Our Mission",
+            "text": "From the moment we went live, we’ve been the spark behind viral sensations. Whether it’s memes that make you chuckle or campaigns that make you click, we deliver <strong> legendary solutions </strong> for brands ready to break the internet. Our meme magic grows stronger with every LOL we earn!"
+        },
+        {
+            "title": "Our Goal",
+            "text": "Our goal is simple: <strong> to make your brand the meme-worthy buzz </strong> that everyone’s sharing. We create digital experiences that don’t just get likes—they get love, turning your brand into a viral sensation.",
+            "button": {
+                "label": "More About Us",
+                "link": "/about"
+            }
+        }
+    ]
+}

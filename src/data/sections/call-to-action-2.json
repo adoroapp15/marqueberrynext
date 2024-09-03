@@ -1,0 +1,23 @@
+{
+    "title": "Let's make your <br>brand brilliant",
+    "subtitle": "Have ideas for your business?",
+    "text": "<p>Then let us know about it and we can see what we can do to help. Fill in this very quick enquiry.</p><p><a href=\"tel:074007 05595\">074007 05595</a></p>",
+    "bg_image": "/images/map.jpg",
+    "social": [
+        {
+            "link": "https://x.com/Marqueberry1",
+            "icon": "fab fa-twitter",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://www.linkedin.com/company/marque-berry/",
+            "icon": "fab fa-linkedin-in",
+            "title": "LinkedIn"
+        },
+        {
+            "link": "https://www.facebook.com/people/Marqueberry/100063915163762/",
+            "icon": "fab fa-facebook",
+            "title": "Facebbok"
+        }
+    ]
+}

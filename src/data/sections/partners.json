@@ -1,0 +1,46 @@
+{
+    "subtitle": "Fantastic and Premium Clients",
+    "title": "We Have Had the Pleasure of <br/>Working with Some Clients",
+    "items": [
+        {
+            "link": "https://www.hotstar.com/in/paywall?ref=%2Fin",
+            "label": "Visit Website",
+            "image": "/images/hotstar.png"
+        },
+        {
+            "link": "https://sportstar.thehindu.com/",
+            "label": "Visit Website",
+            "image": "/images/star.png"
+        },
+        {
+            "link": "https://www.primevideo.com/region/eu/offers/nonprimehomepage/ref=dv_web_force_root",
+            "label": "Visit Website",
+            "image": "/images/prime.png"
+        },
+        {
+            "link": "https://www.amazon.in/minitv?dplnk=Y&mtv_pt=gateway&refMarker=avod_in_desktop_signpost",
+            "label": "Visit Website",
+            "image": "/images/mini.png"
+        },
+        {
+            "link": "https://www.myteam11.com/",
+            "label": "Visit Website",
+            "image": "/images/myteam.png"
+        },
+        {
+            "link": "https://www.citroen.in/test-drive?type=basalt",
+            "label": "Visit Website",
+            "image": "/images/citroen.png"
+        },
+        {
+            "link": "https://www.stargoldcorp.com/",
+            "label": "Visit Website",
+            "image": "/images/stargold.png"
+        },
+        {
+            "link": "https://www.ruskmedia.com/",
+            "label": "Visit Website",
+            "image": "/images/rusk.png"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "value": "24",
+            "label": "Team members",
+            "after": ""
+        },
+        {
+            "value": "99",
+            "label": "Completed projects",
+            "after": "+"
+        },
+        {
+            "value": "2",
+            "label": "Views achieved",
+            "after": "billion"
+        }
+    ]
+}
