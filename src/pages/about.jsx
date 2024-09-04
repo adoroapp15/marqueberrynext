@@ -96,8 +96,8 @@ Our team is a blend of meme connoisseurs, social media strategists, and creative
 							<div className="num onovo-text-white js-counter" data-end-value="12">
 								<CountUp end="500" duration={7} enableScrollSpy={true} scrollSpyOnce={true} />
 							</div>
-							<div className="num-after onovo-text-white"> M </div>
-							<div className="label"> Views achieved </div>
+							<div className="num-after onovo-text-white"> M+ </div>
+							<div className="label"> Memes Delivered</div>
 						</div>
 					</div>
 

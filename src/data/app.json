@@ -36,26 +36,6 @@
                 "label": "Home",
                 "link": "/",
                 "children": [
-                    {
-                        "label": "Creative Agency",
-                        "link": "/",
-                        "children": 0
-                    },
-                    {
-                        "label": "Digital Agency",
-                        "link": "/index-2",
-                        "children": 0
-                    },
-                    {
-                        "label": "Creative Portfolio",
-                        "link": "/index-3",
-                        "children": 0
-                    },
-                    {
-                        "label": "Fullscreen Parallax",
-                        "link": "/index-4",
-                        "children": 0
-                    }
                 ]
             },
             {
@@ -65,16 +45,6 @@
                     {
                         "label": "About Us",
                         "link": "/about",
-                        "children": 0
-                    },
-                    {
-                        "label": "Team",
-                        "link": "/team",
-                        "children": 0
-                    },
-                    {
-                        "label": "Team Detail",
-                        "link": "/team/team-1",
                         "children": 0
                     },
                     {
@@ -88,11 +58,6 @@
                         "children": 0
                     },
                     {
-                        "label": "Pricing Plans",
-                        "link": "/pricing",
-                        "children": 0
-                    },
-                    {
                         "label": "FAQ",
                         "link": "/faq",
                         "children": 0
@@ -100,42 +65,27 @@
                 ]
             },
             {
-                "label": "Projects",
-                "link": "/projects",
+                "label": "Service",
+                "link": "/",
                 "children": [
                     {
-                        "label": "Projects Grid",
-                        "link": "/projects",
+                        "label": "Distribution",
+                        "link": "/services/distribution",
                         "children": 0
                     },
                     {
-                        "label": "Projects List",
-                        "link": "/projects-2",
+                        "label": "Studio",
+                        "link": "/services/studio",
                         "children": 0
                     },
                     {
-                        "label": "Projects Side",
-                        "link": "/projects-3",
+                        "label": "Viral",
+                        "link": "/services/viral",
                         "children": 0
                     },
                     {
-                        "label": "Projects Masonry",
+                        "label": "Adoro",
                         "link": "/projects-4",
-                        "children": 0
-                    },
-                    {
-                        "label": "Projects 3 Column",
-                        "link": "/projects-5",
-                        "children": 0
-                    },
-                    {
-                        "label": "Gallery",
-                        "link": "/gallery",
-                        "children": 0
-                    },
-                    {
-                        "label": "Project Detail",
-                        "link": "/projects/project-01",
                         "children": 0
                     }
                 ]
@@ -213,7 +163,7 @@
                 "alt": "image"
             }
         ],
-        "copy": "© 2023 Marqueberry by <a href='https://bslthemes.com' target='blank' class='onovo-lnk lnk--white'>bslthemes Team</a>. All rights reserved."
+        "copy": "© 2023 Marqueberry  All rights reserved."
     },
     "social": [
         {

@@ -133,7 +133,7 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = JSON.parse('{"items":[{"label":"- Brand Strategy","link":"/services/service-1"},{"label":"- Creative Direction","link":"/services/service-2"},{"label":"- Native and Web Apps","link":"/services/service-3"},{"label":"- Machine Learning / AI","link":"/services/service-4"}]}');
+module.exports = JSON.parse('{"items":[{"label":"- Meme Distribution","link":"/best-meme-marketing-company-india"},{"label":"- Influencer Marketing","link":"/services/service-2"},{"label":"- Meme Creation","link":"/services/service-3"},{"label":"- Content Creation","link":"/services/service-4"}]}');
 
 /***/ })
 
