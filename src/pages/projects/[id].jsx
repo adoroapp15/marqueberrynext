@@ -48,7 +48,7 @@ const ProjectDetail = ( props ) => {
     <Layouts>
       <PageBanner pageTitle={postData.title} pageDesc={postData.type} />
       
-      {/* Onovo Project Detail */}
+      {/* Marqueberry Project Detail */}
 			<section className="onovo-section gap-top-140">
 				<div className="container">
 
@@ -186,7 +186,7 @@ const ProjectDetail = ( props ) => {
 				</div>
 			</section>
 
-			{/* Onovo Navs */}
+			{/* Marqueberry Navs */}
 			<section className="onovo-section">
 				<div className="container">
 

@@ -80,7 +80,7 @@ const ProjectsGrid = ({ projects, layout, cols, sideFilter, masonry, galleryMode
 
   return (
     <>
-      {/* Onovo Projects */}
+      {/* Marqueberry Projects */}
       <section className="onovo-section gap-top-140">
         <div className="container">
 

@@ -32,7 +32,7 @@ const Contact = () => {
     <Layouts>
         <PageBanner pageTitle={"Contact Us"} pageDesc={"Have ideas for your business? Let’s build something awesome together."} />
 
-        {/* Onovo Contact Info */}
+        {/* Marqueberry Contact Info */}
         <section className="onovo-section gap-top-140">
             <div className="container">
                 <div className="row">
@@ -181,9 +181,9 @@ const Contact = () => {
                             <ul>
                                 <li>
                                     <h5>Contact Info</h5>
-                                    <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">+ 1 (020) 430 2973</a><br/>
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">username@domain.com</a>
-                                    
+                                    <a href="tel:89206 32128, 074007 05595" className="onovo-lnk lnk--white" target="_blank">89206 32128, 074007 05595</a><br/>
+                                    <a href="mailto:info@marqueberry.com" className="onovo-lnk lnk--white" target="_blank">info@marqueberry.com</a>
+                            
                                     <div className="onovo-social-1 onovo-social-active" style={{"marginTop": "10px"}}>
                                         <ul>
                                             {appData.social.map((item, key) => (
@@ -197,12 +197,14 @@ const Contact = () => {
                                     </div>
                                 </li>
                                 <li>
-                                    <h5>Houston</h5>
-                                    <div>2001 N. Clybourn Avenue Suite 202, <br/>Block D, IL 60614</div>
+                                    <h5>Gurgaon</h5>
+                                    <div>Think Ellipse Pvt ltd
+                                    608, Tower 1, DLF Corporate greens,<br/>sector 74A,
+                                    Gurugram, Haryana 122004</div>
                                 </li>
                                 <li>
-                                    <h5>Los Angeles</h5>
-                                    <div>2001 N. Clybourn Avenue Suite 202</div>
+                                    <h5>Jaipur</h5>
+                                   <div>SDC green park, Jaipur<br/>Rajasthan,302002 India</div>
                                 </li>
                             </ul>
                         </div>
@@ -212,45 +214,8 @@ const Contact = () => {
             </div>
         </section>
 
-        {/* Onovo Faq */}
-        <section className="onovo-section gap-top-140">
-            <div className="container">
-
-                {/* Heading */}
-                <div className="onovo-heading align-center gap-bottom-40">
-                    <div className="onovo-subtitle-1">
-                        <span>{faqData.title}</span>
-                    </div>
-                    <h2 className="onovo-title-2">
-                        <span dangerouslySetInnerHTML={{ __html: faqData.subtitle }} />
-                    </h2>
-                </div>
-
-                {/* Faq items */}
-                <div className="onovo-faq-items">
-                <Accordion defaultActiveKey="faq-acc-0">
-                    {faqData.items.map((item, key) => (
-                    <Accordion.Item key={`faq-item-${key}`} eventKey={`faq-acc-${key}`}>
-                    <div key={`faq-item-${key}`} className="onovo-faq-item onovo-collapse-item">
-                        <Accordion.Header>
-                        <h5 className="title onovo-collapse-btn">
-                            <span>{item.title}</span>
-                            <i className="arrow" />
-                        </h5>
-                        </Accordion.Header>
-                        <Accordion.Body>
-                        <div className="onovo-text">
-                            <div dangerouslySetInnerHTML={{ __html: item.text }} />
-                        </div>
-                        </Accordion.Body>
-                    </div>
-                    </Accordion.Item>
-                    ))}
-                </Accordion>
-                </div>
-                
-            </div>
-        </section>
+        {/* Marqueberry Faq */}
+        
       
     </Layouts>
   );

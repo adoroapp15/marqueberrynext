@@ -9,7 +9,7 @@ const Services3Section = ({ services }) => {
 
   return (
     <>
-        {/* Onovo Services */}
+        {/* Marqueberry Services */}
         <section className="onovo-section onovo-section-bg gap-top-140 gap-bottom-140">
             <div className="container">
                 <div className="row">

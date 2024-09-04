@@ -7,7 +7,7 @@ import Link from "next/link";
 const Hero2Slider = () => {
   return (
     <>
-        {/* Onovo Hero */}
+        {/* Marqueberry Hero */}
         <section className="onovo-section onovo-hero hero--two">
 
             {/* Hero swiper */}

@@ -82,7 +82,7 @@ const Footer2 = () => {
 
 							{/* Description */}
 							<div className="onovo-text">
-							DLF CORPORATE GREENS, Sector 74A, <br />Gurugram, Haryana 122101
+							DLF CORPORATE GREENS, Tower-1,608 Sector 74A, <br />Gurugram, Haryana 122004
 								<p>
 									<a className="onovo-lnk" href="tel: 074007 05595" target="blank">+44 (0) 20 7430 2973</a>
 									<br />

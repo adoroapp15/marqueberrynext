@@ -12,7 +12,7 @@ const Blog = ( { posts, totalPosts, currentPage } ) => {
     <Layouts>
       <PageBanner pageTitle={"News & Blog"} pageDesc={"Insights, thoughts, industry trends, marketing tips."} />
 
-      {/* Onovo Blog */}
+      {/* Marqueberry Blog */}
 			<div className="onovo-blog gap-top-140">
 				<div className="container">
           {/* Blog items */}

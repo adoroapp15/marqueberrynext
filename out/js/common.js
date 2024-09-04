@@ -1,9 +1,9 @@
 /**
-*	Onovo - Creative Portfolio Agency HTML Template
+*	Marqueberry - Creative Portfolio Agency HTML Template
 *	Version: 1.0
 *	Author: bslthemes
 *	Author URL: http://themeforest.net/user/bslthemes
-*	Copyright © Onovo by bslthemes. All Rights Reserved.
+*	Copyright © Marqueberry by bslthemes. All Rights Reserved.
 **/
 
 ( function( $ ) {
@@ -594,7 +594,7 @@
 	});
 
 	/*
-		- Onovo Button
+		- Marqueberry Button
 	*/
 	$('button.onovo-btn.onovo-hover-btn').each(function() {
 		var btn_text = $(this).text();
@@ -602,7 +602,7 @@
 	});
 
 	/*
-		- Onovo Pagination
+		- Marqueberry Pagination
 	*/
 	$('.pager').each(function() {
 		var btn_next = $(this).find('.next');
@@ -614,7 +614,7 @@
 	});
 
 	/*
-		- Onovo Portfolio
+		- Marqueberry Portfolio
 	*/
 	var $container = $('.onovo-portfolio-items');
 	$container.imagesLoaded(function() {
@@ -625,7 +625,7 @@
 	});
 
 	/*
-		- Onovo Filter
+		- Marqueberry Filter
 	*/
 	$('.onovo-filter-nav-active').each(function() {
 		$(this).css({'width':$(this).closest('.onovo-filter.filter--default').find('.item--active').parent().width()+6+'px'});

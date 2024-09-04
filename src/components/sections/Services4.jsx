@@ -5,7 +5,7 @@ import { servShowcaseHover } from "@common/utilits";
 const Services4Section = ({ services }) => {
   return (
     <>
-        {/* Onovo Services */}
+        {/* Marqueberry Services */}
 		<section className="onovo-section gap-bottom-140">
 			<div className="container">
 

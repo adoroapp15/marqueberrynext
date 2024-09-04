@@ -5,7 +5,7 @@ import { Formik } from 'formik';
 const CallToAction2Section = () => {
   return (
     <>
-        {/* Onovo CTA-2 */}
+        {/* Marqueberry CTA-2 */}
         <section className="onovo-section gap-top-140 gap-bottom-140">
             <div className="container" style={{"backgroundImage": "url("+Data.bg_image+")", "backgroundPosition": "65% 0%", "backgroundRepeat": "no-repeat", "backgroundSize": "contain"}}>
                 <div className="row">
@@ -40,7 +40,7 @@ const CallToAction2Section = () => {
                     </div>
                     <div className="col-xs-12 col-sm-12 col-md-12 col-lg-5 offset-lg-1">
 
-                        {/* Onovo Form */}
+                        {/* Marqueberry Form */}
                         <div className="onovo-form-box onovo-text-white">
                             <h5>Send Us A Message</h5>
                             <p>Feel some love, to see what we can do...t!</p>

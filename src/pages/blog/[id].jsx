@@ -50,7 +50,7 @@ const PostsDetail = ( props ) => {
     <Layouts>
       <PageBanner pageTitle={postData.title} pageDesc={""} />
 
-      {/* Onovo Blog Detail */}
+      {/* Marqueberry Blog Detail */}
 			<section className="onovo-section onovo-post gap-top-140">
 				<div className="container">
 

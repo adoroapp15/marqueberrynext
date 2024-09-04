@@ -5,7 +5,7 @@ import Link from "next/link";
 const LatestPostsSection = ( { posts } ) => {
     return (
         <>
-            {/* Onovo Blog */}
+            {/* Marqueberry Blog */}
 			<section className="onovo-section gap-top-140 gap-bottom-140">
 				<div className="container">
 

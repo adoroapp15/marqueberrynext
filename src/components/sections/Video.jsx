@@ -18,7 +18,7 @@ const VideoSection = () => {
 
   return (
     <>
-      	{/* Onovo Video */}
+      	{/* Marqueberry Video */}
 		<section className="onovo-section">
 			<div className="container">
 

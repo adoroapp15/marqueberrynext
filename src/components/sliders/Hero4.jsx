@@ -7,7 +7,7 @@ import Link from "next/link";
 const Hero4Slider = () => {
   return (
     <>
-        {/* Onovo Hero Parallax */}
+        {/* Marqueberry Hero Parallax */}
         <section className="onovo-section">
             
             <Swiper

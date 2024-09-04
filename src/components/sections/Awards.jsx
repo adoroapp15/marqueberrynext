@@ -3,7 +3,7 @@ import Data from "@data/sections/awards.json";
 const AwardsSection = () => {
     return (
       <>
-        {/* Onovo Awards */}
+        {/* Marqueberry Awards */}
 		<section className="onovo-section gap-bottom-140">
 			<div className="container">
 

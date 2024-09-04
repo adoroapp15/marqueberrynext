@@ -3,7 +3,7 @@ import Data from "@data/sections/partners.json";
 const PartnersSection = ( { paddingTop } ) => {
   return (
     <>
-        {/* Onovo Brands */}
+        {/* Marqueberry Brands */}
         <section className={paddingTop ? "onovo-section gap-top-140" : "onovo-section"}>
             <div className="container">
 

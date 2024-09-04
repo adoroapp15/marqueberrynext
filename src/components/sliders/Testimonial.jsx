@@ -6,7 +6,7 @@ import Data from '@data/sliders/testimonial';
 const TestimonialSlider = () => {
   return (
     <>
-        {/* Onovo Reviews */}
+        {/* Marqueberry Reviews */}
         <section className="onovo-section gap-bottom-140">
             <div className="container">
 

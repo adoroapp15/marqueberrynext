@@ -4,7 +4,7 @@ import Link from "next/link";
 const AboutSection = () => {
     return (
       <>
-        {/* Onovo About */}
+        {/* Marqueberry About */}
         <section className="onovo-section gap-bottom-140">
           <div className="container">
             <div className="row">

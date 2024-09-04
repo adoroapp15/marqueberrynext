@@ -35,7 +35,7 @@ const About = (props) => {
     <Layouts>
     	<PageBanner pageTitle={"About Us"} pageDesc={"Creative studio at the intersection of art, designand technology."} />
       
-      	{/* Onovo About */}
+      	{/* Marqueberry About */}
 	  	<section className="onovo-section gap-top-140 gap-bottom-140">
 			<div className="container">
 				<div className="row">

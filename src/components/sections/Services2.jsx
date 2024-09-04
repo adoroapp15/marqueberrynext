@@ -4,7 +4,7 @@ import Link from "next/link";
 const Services2Section = ( { introHidden, noPaddingBottom } ) => {
   return (
     <>
-        {/* Onovo Services */}
+        {/* Marqueberry Services */}
         <section className={noPaddingBottom ? "onovo-section gap-top-140" : "onovo-section gap-top-140 gap-bottom-140"}>
             <div className="container">
                 {introHidden == undefined &&

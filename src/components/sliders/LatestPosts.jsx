@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const LatestPostsSlider = ( { posts } ) => {
     return (
         <>
-            {/* Onovo Blog Carousel */}
+            {/* Marqueberry Blog Carousel */}
 			<section className="onovo-section onovo-section-bg gap-top-140 gap-bottom-140">
 				<div className="container">
 

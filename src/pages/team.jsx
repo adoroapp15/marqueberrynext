@@ -12,7 +12,7 @@ const Team = ( props ) => {
     <Layouts>
 		<PageBanner pageTitle={"Our Team"} pageDesc={"Meet our creativity company family."} />
 
-		{/* Onovo Team */}
+		{/* Marqueberry Team */}
 		<section className="onovo-section gap-top-140 gap-bottom-140">
 			<div className="container">
 

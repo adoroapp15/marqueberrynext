@@ -31,7 +31,7 @@ const DefaultFooter = () => {
                             {/* Description */}
                             <div className="onovo-text onovo-text-white">
                                 <h5>Get in Touch</h5>
-                                <p style={{"opacity": "0.6"}}>DLF CORPORATE GREENS, Sector 74A, <br />Gurugram, Haryana 122101</p>
+                                <p style={{"opacity": "0.6"}}>DLF CORPORATE GREENS, Tower-1, 608 Sector 74A, <br />Gurugram, Haryana 122101</p>
                                 <p style={{"opacity": "0.6"}}>
                                     <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">  89206 32128, 074007 05595</a><br />
                                     <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">info@marqueberry.com</a>
