@@ -29,6 +29,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/best-meme-marketing-company-india": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/best-meme-marketing-company-india.js"
+    ],
+    "/services": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/services.js"
     ]
   },
   "ampFirstPages": []
