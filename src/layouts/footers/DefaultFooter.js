@@ -28,7 +28,7 @@ const DefaultFooter = () => {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 offset-lg-1">
 
-                            {/* Description */}
+                            {/* Get in Touch */}
                             <div className="onovo-text onovo-text-white">
                                 <h5>Get in Touch</h5>
                                 <p style={{"opacity": "0.6"}}>DLF CORPORATE GREENS, Tower-1, 608 Sector 74A, <br />Gurugram, Haryana 122101</p>
@@ -41,17 +41,15 @@ const DefaultFooter = () => {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 
-                            
-                            <div className="row">
-                                {appData.footer.gallery.map((item, key) => (
-                                <div key={`fgallery-item-${key}`} className="col-4 col-xs-6 col-sm-6 col-md-4 col-lg-4">
+                            {/* Privacy Policy */}
+                            <div className="onovo-text onovo-text-white">
+                                <div className="col-4 col-xs-6 col-sm-6 col-md-4 col-lg-4">
                                     <figure className="gallery-item">
-                                        <a href={item.image} title={item.title}>
-                                            <img src={item.image} alt={item.alt} />
-                                        </a>
+                                        <Link href="./Policy">
+                                            <span>Privacy Policy</span>
+                                        </Link>
                                     </figure>
                                 </div>
-                                ))}
                             </div>
 
                         </div>

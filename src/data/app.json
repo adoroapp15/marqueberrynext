@@ -42,31 +42,12 @@
                 "label": "About",
                 "link": "/about",
                 "children": [
-                    {
-                        "label": "About Us",
-                        "link": "/about",
-                        "children": 0
-                    },
-                    {
-                        "label": "Services",
-                        "link": "/services",
-                        "children": 0
-                    },
-                    {
-                        "label": "Service Detail",
-                        "link": "/services/service-1",
-                        "children": 0
-                    },
-                    {
-                        "label": "FAQ",
-                        "link": "/faq",
-                        "children": 0
-                    }
+                  
                 ]
             },
             {
                 "label": "Service",
-                "link": "/",
+                "link": "/services",
                 "children": [
                     {
                         "label": "Distribution",
@@ -94,21 +75,6 @@
                 "label": "Blog",
                 "link": "/blog",
                 "children": [
-                    {
-                        "label": "Blog Grid",
-                        "link": "/blog",
-                        "children": 0
-                    },
-                    {
-                        "label": "Blog List",
-                        "link": "/blog-2",
-                        "children": 0
-                    },
-                    {
-                        "label": "Blog Detail",
-                        "link": "/blog/play-to-your-strength-and-supercharge-your-business",
-                        "children": 0
-                    }
                 ]
             },
             {

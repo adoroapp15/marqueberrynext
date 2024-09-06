@@ -50,7 +50,7 @@ const PostsDetail = ( props ) => {
     <Layouts>
       <PageBanner pageTitle={postData.title} pageDesc={""} />
 
-      {/* Marqueberry Blog Detail */}
+      {/* Onovo Blog Detail */}
 			<section className="onovo-section onovo-post gap-top-140">
 				<div className="container">
 
@@ -64,9 +64,9 @@ const PostsDetail = ( props ) => {
 						<div className="onovo-post-content">
 
 							{/* Date */}
-							<div className="onovo-post-date">
+							{/* <div className="onovo-post-date">
 								<span className="date"><Date dateString={postData.date} /></span> by <a href="#" onClick={(e) => {e.preventDefault();}}>{postData.author.name}</a>
-							</div>
+							</div> */}
 
 							{/* Content */}
 							<div className="onovo-post-text">
@@ -104,10 +104,10 @@ const PostsDetail = ( props ) => {
 								<div className="onovo-post-bottom-content">
 
 									{/* Categories */}
-									<div className="onovo-post-categories onovo-lnk lnk--white">
+									{/* <div className="onovo-post-categories onovo-lnk lnk--white">
 										<span>Posted in: </span>
 										<a href="#" onClick={(e) => {e.preventDefault();}}>{postData.category}</a>
-									</div>
+									</div> */}
 
 									{/* Tags */}
 									<div className="onovo-post-tags">
@@ -211,83 +211,17 @@ const PostsDetail = ( props ) => {
 						<div id="comments" className="comment post-sb__comment">
 
 							{/* Title */}
-							<div className="comment__title"> 2 Comments </div>
-
 							{/* Comments items */}
 							<ul className="comments comment__wrapper">
 
 								{/*comment item*/}
-								<li className="comment comment-item">
-									<div className="comment">
-										<div className="comment-item__photo">
-											<img src="https://secure.gravatar.com/avatar/7255da11246c78e93500291c48c8f7a4?s=64&#038;d=mm&#038;r=g" className="avatar photo" height="64" width="64" alt="" />
-										</div>
-										<div className="comment-item__content">
-											<div className="comment-item__top">
-												<div className="comment-item__name">Lisa Brown</div>
-												<div className="comment-item__sent">April 2, 2023</div>
-											</div>
-											<div className="comment-item__text">
-												<p>We are actively engaging with waste to energy operators, concrete manufacturers, and the wider construction industry.</p>
-											</div>
-											<div className="comment-item__reply">
-												<a className="comment-reply-link" href="#" onClick={(e) => {e.preventDefault();}}>Reply</a>
-											</div>
-										</div>
-									</div>
-								</li>
-
-								{/*comment item*/}
-								<li className="comment comment-item">
-									<div className="comment">
-										<div className="comment-item__photo">
-											<img src="https://secure.gravatar.com/avatar/7255da11246c78e93500291c48c8f7a4?s=64&#038;d=mm&#038;r=g" className="avatar photo" height="64" width="64" alt="" />
-										</div>
-										<div className="comment-item__content">
-											<div className="comment-item__top">
-												<div className="comment-item__name">Sofia Morrison</div>
-												<div className="comment-item__sent">April 2, 2023</div>
-											</div>
-											<div className="comment-item__text">
-												<p>Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport.</p>
-											</div>
-											<div className="comment-item__reply">
-												<a className="comment-reply-link" href="#" onClick={(e) => {e.preventDefault();}}>Reply</a>
-											</div>
-										</div>
-									</div>
-								</li>
+								
 
 							</ul>
 
 						</div>
 
 						{/* Comments Form */}
-						<div className="post-sb__comment-form comment-form">
-							<div id="respond" className="comment-respond">
-								<div className="comment__title">Leave a comment</div>
-								<form id="commentform" className="comment-form" onSubmit={(e) => {e.preventDefault();}}>
-									<div className="field comment-form__field">
-										<textarea className="textarea" rows="3" placeholder="Comment" name="comment"></textarea>
-									</div>
-									<div className="comment-form__inputs-group">
-										<div className="comment-form__field-wrapper">
-											<label className="field comment-form__field">
-												<input name="author" type="text" placeholder="Name" className="input" />
-											</label>
-										</div>
-										<div className="comment-form__field-wrapper">
-											<label className="field comment-form__field">
-												<input name="email" type="text" placeholder="Email" className="input" />
-											</label>
-										</div>
-									</div>
-									<button type="submit" className="onovo-btn onovo-hover-btn">
-										<span>Submit</span>
-									</button>
-								</form>
-							</div>
-						</div>
 
 					</div>
 
