@@ -47,7 +47,7 @@ const About = (props) => {
 								<span> Welcome to Marqueberry </span>
 							</div>
 							<h2 className="onovo-title-2">
-								<span> We are a meme marketing powerhouse, <br/>passionate about crafting viral moments <br/>and building brands with humor and creativity. </span>
+								<span> We are a meme marketing powerhouse </span>
 							</h2>
 							<div className="onovo-text">
 								<p>Since our inception, we've partnered with brands to create campaigns that not only resonate but are remembered. Our expertise in meme culture, influencer marketing, and social media management ensures that we bring the right mix of creativity, strategy, and execution to every project.
@@ -60,7 +60,7 @@ Our team is a blend of meme connoisseurs, social media strategists, and creative
 					<div className="col-xs-12 col-sm-12 col-md-12 col-lg-3 offset-lg-1 hide-on-mobile">
 
 						{/* Image */}
-						<img src="/images/onovo-about-logo.png" alt="" />
+						<img src="/images/marqueberry-about-logo.png" alt="" />
 
 					</div>
 				</div>

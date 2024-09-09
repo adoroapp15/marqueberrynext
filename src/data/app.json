@@ -26,7 +26,7 @@
     },
     "header": {
         "logo": {
-            "image": "/images/marqueberry.png",
+            "image": "/images/marqueberry_light.png",
             "image_white": "/images/marqueberry.png",
             "alt": "logo"
             
@@ -65,7 +65,7 @@
                         "children": 0
                     },
                     {
-                        "label": "Adoro",
+                        "label": "adoro",
                         "link": "https://adoro.social/",
                         "children": 0
                     }

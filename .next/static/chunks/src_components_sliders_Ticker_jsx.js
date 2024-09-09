@@ -133,7 +133,7 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = JSON.parse('{"items":[{"label":"- Meme Distribution","link":"/best-meme-marketing-company-india"},{"label":"- Influencer Marketing","link":"/services/service-2"},{"label":"- Meme Creation","link":"/services/service-3"},{"label":"- Content Creation","link":"/services/service-4"}]}');
+module.exports = JSON.parse('{"items":[{"label":"- Meme Distribution","link":"/best-meme-marketing-company-india"},{"label":"- Influencer Marketing","link":"/services/service-2"},{"label":"- Meme Creation","link":"/services/best-social-media-management-company"},{"label":"- Content Creation","link":"/services/meme-content-creation"}]}');
 
 /***/ })
 

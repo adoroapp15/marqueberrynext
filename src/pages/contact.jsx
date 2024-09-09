@@ -47,53 +47,86 @@ const Contact = () => {
                         {/* Form */}
                         <div className="onovo-form">
                         <Formik
-                            initialValues = {{ email: '', name: '', tel: '', message: '' }}
-                            validate = { values => {
-                                const errors = {};
-                                if (!values.email) {
-                                    errors.email = 'Required';
-                                } else if (
-                                    !/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(values.email)
-                                ) {
-                                    errors.email = 'Invalid email address';
-                                }
-                                return errors;
-                            }}
-                            onSubmit = {( values, { setSubmitting } ) => {
-                                const form = document.getElementById("contactForm");
-                                const status = document.getElementById("contactFormStatus");
-                                const data = new FormData();
+                            initialValues = {{ address: '', full_name: '', mobileNo: '', message: '' }}
+                            // validate = { values => {
+                            //     const errors = {};
+                            //     if (!values.address) {
+                            //         errors.address = 'Required';
+                            //     } else if (
+                            //         !/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(values.address)
+                            //     ) {
+                            //         errors.address = 'Invalid email address';
+                            //     }
+                            //     return errors;
+                            // }}
+                            // onSubmit = {( values, { setSubmitting } ) => {
+                            //     console.log("Form submitted with values: ", values);
+                            //     // const form = document.getElementById("contactForm");
+                            //     // const status = document.getElementById("contactFormStatus");
+                            //     // const data = new FormData();
 
-                                data.append('name', values.name);
-                                data.append('tel', values.tel);
-                                data.append('email', values.email);
-                                data.append('message', values.message);
+                            //     // data.append('full_name', values.full_name);
+                            //     // data.append('mobileNo', values.mobileNo);
+                            //     // data.append('address', values.address);
+                            //     // data.append('message', values.message);
 
-                                fetch(form.action, {
+                            //     fetch('https://backend-seven-gules.vercel.app/mail/contact', {
+                            //         method: 'POST',
+                            //         body: JSON.stringify({
+                            //             full_name: values.full_name,
+                            //             address: values.address,
+                            //             mobileNo: values.mobileNo,
+                            //             message: values.message,
+                            //         }),
+                            //         headers: {
+                            //             'Accept': 'application/json'
+                            //         }
+                            //     })       .then(response => response.json())
+                            //     .then(data => {
+                            //         if (data.success) {
+                            //             alert("Thanks for your submission!");
+                            //         } else {
+                            //             alert("Oops! There was a problem.");
+                            //         }
+                            //     })
+                            //     .catch(error => {
+                            //         alert("Oops! There was a problem submitting your form");
+                            //     })
+                            //     .finally(() => setSubmitting(false));
+                            // }}
+                            onSubmit = {(values, { setSubmitting }) => {
+                                console.log("Submitting form with values:", values);
+                            
+                                fetch('https://backend-seven-gules.vercel.app/mail/contact', {
                                     method: 'POST',
-                                    body: data,
+                                    body: JSON.stringify({
+                                        full_name: values.name,
+                                        address: values.email,
+                                        mobileNo: values.tel,
+                                        message: values.message,
+                                    }),
                                     headers: {
-                                        'Accept': 'application/json'
+                                        'Content-Type': 'application/json',
+                                        'Accept': 'application/json',
                                     }
-                                }).then(response => {
-                                    if (response.ok) {
-                                        status.innerHTML = "Thanks for your submission!";
-                                        form.reset()
+                                })
+                                .then(response => response.json())
+                                .then(data => {
+                                    if (data.success) {
+                                        console.log("Form submission successful:", data);  // Log success
+                                        alert("Thanks for your submission!");
                                     } else {
-                                        response.json().then(data => {
-                                            if (Object.hasOwn(data, 'errors')) {
-                                                status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
-                                            } else {
-                                                status.innerHTML = "Oops! There was a problem submitting your form"
-                                            }
-                                        })
+                                        console.log("Form submission failed:", data);  // Log failure
+                                        alert("Oops! There was a problem.");
                                     }
-                                }).catch(error => {
-                                    status.innerHTML = "Oops! There was a problem submitting your form"
-                                });
-
-                                setSubmitting(false);
+                                })
+                                .catch(error => {
+                                    console.error("Form submission error:", error);  // Log errors
+                                    alert("Oops! There was a problem submitting your form");
+                                })
+                                .finally(() => setSubmitting(false));
                             }}
+                            
                             >
                             {({
                                 values,
@@ -198,7 +231,7 @@ const Contact = () => {
                                 </li>
                                 <li>
                                     <h5>Gurgaon</h5>
-                                    <div>Think Ellipse Pvt ltd
+                                    <div>
                                     608, Tower 1, DLF Corporate greens,<br/>sector 74A,
                                     Gurugram, Haryana 122004</div>
                                 </li>

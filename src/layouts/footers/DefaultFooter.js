@@ -22,7 +22,7 @@ const DefaultFooter = () => {
                             {/* Description */}
                             <div className="onovo-text onovo-text-white">
                                 <h5>Information</h5>
-                                <p style={{"opacity": "0.6"}}>From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>. </p>
+                             <p style={{"opacity": "0.6"}}>At Marque Berry, we turn your brand into a viral sensation with creative memes, influencer magic, and strategic distribution. Let’s make your brand unforgettable! </p>
                             </div>
 
                         </div>
