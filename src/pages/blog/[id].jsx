@@ -100,84 +100,6 @@ const PostsDetail = ( props ) => {
 							</div>
 
 							{/* Info */}
-							<div className="onovo-post-bottom">
-								<div className="onovo-post-bottom-content">
-
-									{/* Categories */}
-									{/* <div className="onovo-post-categories onovo-lnk lnk--white">
-										<span>Posted in: </span>
-										<a href="#" onClick={(e) => {e.preventDefault();}}>{postData.category}</a>
-									</div> */}
-
-									{/* Tags */}
-									<div className="onovo-post-tags">
-										<span>Tags: </span>
-										<a href="#" onClick={(e) => {e.preventDefault();}}>branding</a>
-										<a href="#" onClick={(e) => {e.preventDefault();}}>design</a>
-										<a href="#" onClick={(e) => {e.preventDefault();}}>development</a>
-										<a href="#" onClick={(e) => {e.preventDefault();}}>web</a>
-									</div>
-
-									{/* Social*/}
-									<div className="social-share onovo-post-socials onovo-social-2">
-										<span>Share:</span>
-										<ul>
-                      <li>
-                        <FacebookShareButton 
-                          className="onovo-social-link onovo-hover-2"
-                          url={shareUrl}
-                          quote={postData.title}
-                          hashtag={'#'+postData.category}
-                        >
-                          <i className="icon fab fa-facebook" />
-                        </FacebookShareButton>
-                      </li>
-                      <li>
-                        <TwitterShareButton 
-                          className="onovo-social-link onovo-hover-2"
-                          url={shareUrl}
-                          title={postData.title}
-                          hashtag={'#'+postData.category}
-                        >
-                          <i className="icon fab fa-twitter"></i>
-                        </TwitterShareButton>
-                      </li>
-                      <li>
-                        <LinkedinShareButton 
-                          className="onovo-social-link onovo-hover-2"
-                          url={shareUrl}
-                          title={postData.title}
-                          summary={postData.type}
-                          source={shareUrl}
-                        >
-                          <i className="icon fab fa-linkedin" />
-                        </LinkedinShareButton>
-                      </li>
-                      <li>
-                        <RedditShareButton 
-                          className="onovo-social-link onovo-hover-2"
-                          url={shareUrl}
-                          title={postData.title}
-                        >
-                          <i className="icon fab fa-reddit" />
-                        </RedditShareButton>
-                      </li>
-                      <li>
-                        <PinterestShareButton 
-                          className="onovo-social-link onovo-hover-2"
-                          url={shareUrl}
-                          media={postData.image}
-                          description={postData.title}
-                        >
-                          <i className="icon fab fa-pinterest" />
-                        </PinterestShareButton>
-                      </li>
-										</ul>
-									</div>
-
-								</div>
-							</div>
-
 							{/* Navigation */}
 							<div className="onovo-page-navigation">
 								<div className="onovo-page-navigation-content">
@@ -202,27 +124,6 @@ const PostsDetail = ( props ) => {
 							</div>
 
 						</div>
-					</div>
-
-					{/* Post Comments */}
-					<div className="onovo-post-comments">
-
-						{/* Comments */}
-						<div id="comments" className="comment post-sb__comment">
-
-							{/* Title */}
-							{/* Comments items */}
-							<ul className="comments comment__wrapper">
-
-								{/*comment item*/}
-								
-
-							</ul>
-
-						</div>
-
-						{/* Comments Form */}
-
 					</div>
 
 				</div>

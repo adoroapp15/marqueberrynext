@@ -1,0 +1,1 @@
+{"c":["pages/blog/[id]","webpack"],"r":["pages/blog"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=E%3A%5Conovo%5Csrc%5Cpages%5Cblog.jsx&page=%2Fblog!","./src/components/PaginatedBlog.jsx","./src/components/Pagination.jsx","./src/lib/usePagination.js","./src/pages/blog.jsx","./src/pages/blog/page/[page].jsx"]}
