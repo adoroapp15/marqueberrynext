@@ -5,22 +5,6 @@
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "portfolio": {
             "categories": [
-                {
-                    "label": "Marketing",
-                    "slug": "marketing"
-                },
-                {
-                    "label": "Interactive",
-                    "slug": "interactive"
-                },
-                {
-                    "label": "Design",
-                    "slug": "design"
-                },
-                {
-                    "label": "Branding",
-                    "slug": "branding"
-                }
             ]
         }
     },
