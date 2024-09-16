@@ -3,7 +3,7 @@ import Data from "@data/sections/call-to-action.json";
 const CallToActionSection = () => {
   return (
     <>
-        {/* Marqueberry CTA */}
+        {/* Marque Berry | a meme company CTA */}
         <section className="onovo-section gap-top-140 gap-bottom-140" style={{"backgroundImage": "url("+Data.bg_image+")", "backgroundPosition": "center center", "backgroundRepeat": "no-repeat", "backgroundSize": "cover"}}>
             <div className="container">
                 <div className="row">

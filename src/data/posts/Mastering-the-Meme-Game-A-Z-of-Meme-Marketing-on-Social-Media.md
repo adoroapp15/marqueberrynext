@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Meme Game: A-Z of Meme Marketing on Social Media'
-date: '2024-04-02'
+date: '2024-02-23'
 image: "/images/Mastering the Meme Game_ A-Z of Meme Marketing on Social Media_1708685795942.png"
 short: "In the fast-paced realm of social media, where attention spans are shorter than a cat video, meme marketing has become the secret sauce for brands looking to spice up their online presence....."
 category:

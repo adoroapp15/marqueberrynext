@@ -1,6 +1,6 @@
 ---
 title: 'Meme Marketing: The Secret Sauce for Digital Engagement by Marque Berry'
-date: '2024-04-02'
+date: '2024-06-10'
 image: "/images/Meme Marketing_ The Secret Sauce for Digital Engagement by Marque Berry_1718010788100.png"
 short: "In today&rsquo;s fast-paced digital world, capturing audience attention is more challenging than ever...."
 category:

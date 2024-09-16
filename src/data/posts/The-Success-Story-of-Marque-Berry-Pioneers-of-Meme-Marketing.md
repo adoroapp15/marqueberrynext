@@ -1,6 +1,6 @@
 ---
 title: 'The Success Story of Marque Berry: Pioneers of Meme Marketing'
-date: '2024-04-02'
+date: '2023-11-27'
 image: "/images/The Success Story of Marque Berry_ Pioneers of Meme Marketing_1701070536907.png"
 short: "When it comes to the dynamic world of marketing, one name shines bright, captivating the minds of both the young and the ...."
 category:

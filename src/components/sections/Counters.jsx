@@ -4,7 +4,7 @@ import CountUp from 'react-countup';
 const CountersSection = () => {
   return (
     <>
-      {/* Marqueberry Numbers */}
+      {/* Marque Berry | a meme company Numbers */}
 		<section className="onovo-section gap-top-140 gap-bottom-140">
 			<div className="container">
 

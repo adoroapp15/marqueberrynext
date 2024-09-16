@@ -1,6 +1,6 @@
 ---
 title: 'Unmasking Marque Berry: Your Premier Meme Marketing Agency'
-date: '2024-04-02'
+date: '2023-11-27'
 image: "/images/_Unmasking Marque Berry_ Your Premier Meme Marketing Agency_1701070702705.png"
 short: "In the ever-evolving world of marketing, staying ahead of the curve is essential for businesses...."
 category:

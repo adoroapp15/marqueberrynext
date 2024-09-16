@@ -11,7 +11,7 @@ const ShowcaseSection = ( { projects } ) => {
 
     return (
         <>
-            {/* Marqueberry Showcase */}
+            {/* Marque Berry | a meme company Showcase */}
 			<section className="onovo-section gap-bottom-140" style={{"borderBottom": "1px solid #555"}}>
 				<div className="container">
 

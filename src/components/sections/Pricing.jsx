@@ -4,7 +4,7 @@ import Link from "next/link";
 const PricingSection = ( { bg, hiddenHeading } ) => {
     return (
       <>
-        {/* Marqueberry Pricing */}
+        {/* Marque Berry | a meme company Pricing */}
         <section className={`onovo-section onovo-section-${bg} gap-top-140 gap-bottom-140`}>
           <div className="container">
 

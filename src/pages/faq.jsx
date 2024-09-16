@@ -31,7 +31,7 @@ const FAQ = () => {
     <Layouts>
       <PageBanner pageTitle={"Client’s FAQ"} pageDesc={"Solving business problems is an everyday."} />
       
-      {/* Marqueberry Faq */}
+      {/* Marque Berry | a meme company Faq */}
 			<section className="onovo-section gap-top-140 gap-bottom-140">
 				<div className="container">
 

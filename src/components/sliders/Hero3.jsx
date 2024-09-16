@@ -7,7 +7,7 @@ import Link from "next/link";
 const Hero3Slider = ( { projects } ) => {
   return (
     <>
-        {/* Marqueberry Hero Carousel */}
+        {/* Marque Berry | a meme company Hero Carousel */}
         <section className="onovo-section onovo-section-full align-center">
             <div className="container">
 

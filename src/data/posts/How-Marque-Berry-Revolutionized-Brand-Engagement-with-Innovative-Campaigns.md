@@ -1,6 +1,6 @@
 ---
 title: How Marque Berry Revolutionized Brand Engagement with Innovative Campaigns
-date: '2024-04-02'
+date: '2024-07-22'
 image: "/images/How Marque Berry Revolutionized Brand Engagement with Innovative Campaigns_1721650712400.png"
 short: "In a world saturated with advertisements, brands are constantly searching for new ways to break through the noise and connect with their audience...."
 category:

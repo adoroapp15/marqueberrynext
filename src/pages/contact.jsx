@@ -32,7 +32,7 @@ const Contact = () => {
     <Layouts>
         <PageBanner pageTitle={"Contact Us"} pageDesc={"Have ideas for your business? Let’s build something awesome together."} />
 
-        {/* Marqueberry Contact Info */}
+        {/* Marque Berry | a meme company Contact Info */}
         <section className="onovo-section gap-top-140">
             <div className="container">
                 <div className="row">
@@ -247,7 +247,7 @@ const Contact = () => {
             </div>
         </section>
 
-        {/* Marqueberry Faq */}
+        {/* Marque Berry | a meme company Faq */}
         
       
     </Layouts>

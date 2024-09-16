@@ -1,6 +1,6 @@
 ---
 title: 'Your Ticket to Business Virality'
-date: '2024-04-02'
+date: '2023-11-28'
 image: "/images/Your Ticket to Business Virality_1701166353630.png"
 short: "In the vast landscape of digital marketing, where everyone is vying for attention, one company stands out like a shining star...."
 category:

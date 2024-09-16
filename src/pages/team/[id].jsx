@@ -11,7 +11,7 @@ const TeamDetail = ( { postData, projects, services } ) => {
     <Layouts>
       <PageBanner pageTitle={postData.name} pageDesc={"Meet our creativity company family."} />
 
-      	{/* Marqueberry Team Detail */}
+      	{/* Marque Berry | a meme company Team Detail */}
 		<section className="onovo-section gap-top-140 gap-bottom-140">
 			<div className="container">
 

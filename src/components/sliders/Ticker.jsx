@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const TickerSlider = () => {
   return (
     <>
-        {/* Marqueberry Ticker */}
+        {/* Marque Berry | a meme company Ticker */}
         <section className="onovo-section gap-bottom-140">
 
             {/* Ticker swiper */}

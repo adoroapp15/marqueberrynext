@@ -1,6 +1,6 @@
 ---
 title: 'The Evolution of Memes: More Than Just a Laugh'
-date: '2024-04-02'
+date: '2023-11-28'
 image: "/images/The Evolution of Memes_ More Than Just a Laugh_1701166586715.png"
 short: "In the vast and ever-evolving landscape of the internet, one concept has taken center stage and left everyone scrolling ...."
 category:

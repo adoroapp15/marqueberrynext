@@ -30,7 +30,7 @@ const ServiceDetail = ( { postData, services } ) => {
     <Layouts>
 		<PageBanner pageTitle={postData.title} pageDesc={"Our values and vaulted us to the top of our industry."} />
 
-		{/* Marqueberry Service Detail */}
+		{/* Marque Berry | a meme company Service Detail */}
 		<section className="onovo-section gap-top-140">
 			<div className="container">
 				<div className="row">
@@ -113,7 +113,7 @@ const ServiceDetail = ( { postData, services } ) => {
 							</div>
 						</div>
 
-						{/* Marqueberry Form */}
+						{/* Marque Berry | a meme company Form */}
 						<div className="onovo-form-box onovo-text-white">
 							<h5>Send Us A Message</h5>
 							<p>Feel some love, to see what we can do...t!</p>
@@ -254,7 +254,7 @@ const ServiceDetail = ( { postData, services } ) => {
 			</div>
 		</section>
 
-		{/* Marqueberry Navs */}
+		{/* Marque Berry | a meme company Navs */}
 		<section className="onovo-section">
 			<div className="container">
 

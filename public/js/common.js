@@ -1,9 +1,9 @@
 /**
-*	Marqueberry - Creative Portfolio Agency HTML Template
+*	Marque Berry | a meme company - Creative Portfolio Agency HTML Template
 *	Version: 1.0
 *	Author: bslthemes
 *	Author URL: http://themeforest.net/user/bslthemes
-*	Copyright © Marqueberry by bslthemes. All Rights Reserved.
+*	Copyright © Marque Berry | a meme company by bslthemes. All Rights Reserved.
 **/
 
 ( function( $ ) {
@@ -594,7 +594,7 @@
 	});
 
 	/*
-		- Marqueberry Button
+		- Marque Berry | a meme company Button
 	*/
 	$('button.onovo-btn.onovo-hover-btn').each(function() {
 		var btn_text = $(this).text();
@@ -602,7 +602,7 @@
 	});
 
 	/*
-		- Marqueberry Pagination
+		- Marque Berry | a meme company Pagination
 	*/
 	$('.pager').each(function() {
 		var btn_next = $(this).find('.next');
@@ -614,7 +614,7 @@
 	});
 
 	/*
-		- Marqueberry Portfolio
+		- Marque Berry | a meme company Portfolio
 	*/
 	var $container = $('.onovo-portfolio-items');
 	$container.imagesLoaded(function() {
@@ -625,7 +625,7 @@
 	});
 
 	/*
-		- Marqueberry Filter
+		- Marque Berry | a meme company Filter
 	*/
 	$('.onovo-filter-nav-active').each(function() {
 		$(this).css({'width':$(this).closest('.onovo-filter.filter--default').find('.item--active').parent().width()+6+'px'});

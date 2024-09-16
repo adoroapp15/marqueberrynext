@@ -1,7 +1,7 @@
 ---
 #preview
 title: Biryani By Kilo (BBK) Campaign
-image: /images/Biryani By Kilo (BBK) Campaign_1721814506021.jpeg
+image: /images/BBK.jpeg
 category: Branding
 category_slug: branding
 type: Art Direction, Branding, Interactive Design

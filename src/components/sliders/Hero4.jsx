@@ -7,7 +7,7 @@ import Link from "next/link";
 const Hero4Slider = () => {
   return (
     <>
-        {/* Marqueberry Hero Parallax */}
+        {/* Marque Berry | a meme company Hero Parallax */}
         <section className="onovo-section">
             
             <Swiper

@@ -12,7 +12,7 @@ const PageBanner = ({ pageTitle, pageDesc }) => {
       <Head>
         <title>{headTitle}</title>
       </Head>
-      {/* Marqueberry Intro */}
+      {/* Marque Berry | a meme company Intro */}
 			<section className="onovo-section onovo-intro intro--black">
 				<div className="container">
 					<h1 className="onovo-title-1  onovo-text-white">

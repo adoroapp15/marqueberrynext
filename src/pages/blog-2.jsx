@@ -12,7 +12,7 @@ const Blog2 = ( { posts, totalPosts, currentPage } ) => {
     <Layouts>
       <PageBanner pageTitle={"News & Blog"} pageDesc={"Insights, thoughts, industry trends, marketing tips."} />
 
-      {/* Marqueberry Blog List */}
+      {/* Marque Berry | a meme company Blog List */}
 			<div className="onovo-blog onovo-archive gap-top-140">
 				<div className="container">
 					<div className="row archive-row">

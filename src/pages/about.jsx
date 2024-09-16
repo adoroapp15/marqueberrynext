@@ -35,7 +35,7 @@ const About = (props) => {
     <Layouts>
     	<PageBanner pageTitle={"About Us"} pageDesc={"Creative studio at the intersection of art, designand technology."} />
       
-      	{/* Marqueberry About */}
+      	{/* Marque Berry | a meme company About */}
 	  	<section className="onovo-section gap-top-140 gap-bottom-140">
 			<div className="container">
 				<div className="row">
@@ -44,7 +44,7 @@ const About = (props) => {
 						{/* Heading */}
 						<div className="onovo-heading gap-bottom-60">
 							<div className="onovo-subtitle-1">
-								<span> Welcome to Marqueberry </span>
+								<span> Welcome to Marque Berry | a meme company </span>
 							</div>
 							<h2 className="onovo-title-2">
 								<span> We are a meme marketing powerhouse </span>
@@ -106,8 +106,8 @@ Our team is a blend of meme connoisseurs, social media strategists, and creative
 				{/* Video */}
 				<div className="onovo-video" data-onovo-overlay data-onovo-scroll>
 					<div className="image" onClick={ (e) => clickedVideoButton(e) } style={{"backgroundImage": "url(/images/hero.jpg)"}} />
-					<iframe className="js-video-iframe" data-src="https://www.youtube.com/embed/Gu6z6kIukgg?showinfo=0&rel=0&autoplay=1"></iframe>
-					<div className="play onovo-circle-text" onClick={ (e) => clickedVideoButton(e) }>
+					<iframe className="js-video-iframe"></iframe>
+					<div className="play onovo-circle-text">
 						<div className="arrow" />
 						<div className="label onovo-text-black onovo-circle-text-label"> Play Video - Play Video - Play Video - </div>
 					</div>

@@ -39,7 +39,7 @@ const HeroSection = () => {
 
     return (
         <>
-            {/* Marqueberry Hero */}
+            {/* Marque Berry | a meme company Hero */}
 			<section className="onovo-section onovo-hero">
 				<div className="image">
 					<video autoPlay muted={!mute} loop playsInline id="heroVideo">

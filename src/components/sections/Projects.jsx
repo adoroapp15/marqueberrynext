@@ -69,7 +69,7 @@ const ProjectsSection = ( { projects } ) => {
 
     return (
         <>
-            {/* Marqueberry Projects */}
+            {/* Marque Berry | a meme company Projects */}
 			<section className="onovo-section gap-top-140 gap-bottom-140">
 				<div className="container">
 					<div className="row">

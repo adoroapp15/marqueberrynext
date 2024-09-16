@@ -1,7 +1,7 @@
 ---
 # preview
 title: Seeding Citroën Team Dhoni Campaign
-image: /images/Seeding Citroën Team Dhoni Campaign_1721720424043.jpeg
+image: /images/Seeding.jpeg
 category: Marketing
 category_slug: marketing
 type: UI/UX Design, Mobile Apps, Interactive Design

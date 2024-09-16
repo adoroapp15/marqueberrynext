@@ -1,6 +1,6 @@
 ---
 title: Flam App Campaign
-image: /images/Flam App Campaign Case Study_1721650331942.png
+image: /images/Flam.png
 category: Design
 category_slug: design
 type: Marketing, Rendering, 3D Design

@@ -1,6 +1,6 @@
 ---
 title: 'Unleashing the Power of 10x Marketing Magic'
-date: '2024-04-02'
+date: '2023-11-28'
 image: "/images/Unleashing the Power of 10x Marketing Magic_1701166439050.png"
 short: "In the vast landscape of digital marketing, where trends come and go like shooting stars, one company stands tall, armed with the...."
 category:

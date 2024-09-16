@@ -1,6 +1,6 @@
 ---
 title: MyTeam11 Campaign 
-image: /images/MyTeam11 Campaign Case Study_1721648903672.png
+image: /images/MyTeam11.png
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 category: Marketing
 category_slug: marketing

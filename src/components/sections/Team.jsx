@@ -4,7 +4,7 @@ import Link from "next/link";
 const TeamSection = ( { team } ) => {
     return (
         <>
-            {/* Marqueberry Team */}
+            {/* Marque Berry | a meme company Team */}
 			<section className="onovo-section gap-top-140 gap-bottom-140">
 				<div className="container">
 

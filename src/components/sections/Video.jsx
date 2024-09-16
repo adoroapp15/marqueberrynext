@@ -18,15 +18,15 @@ const VideoSection = () => {
 
   return (
     <>
-      	{/* Marqueberry Video */}
+      	{/* Marque Berry | a meme company Video */}
 		<section className="onovo-section">
 			<div className="container">
 
 				{/* video */}
 				<div className="onovo-video" data-onovo-overlay data-onovo-scroll>
 					<div className="image" onClick={ (e) => clickedVideoButton(e) } style={{"backgroundImage": "url(/images/about.jpg)"}} />
-					<iframe className="js-video-iframe" data-src={"https://www.youtube.com/embed/"+Data.yt_video_id+"?showinfo=0&rel=0&autoplay=1"} />
-					<div className="play onovo-circle-text" onClick={ (e) => clickedVideoButton(e) }>
+					<iframe className="js-video-iframe" />
+					<div className="play onovo-circle-text">
 						<div className="arrow" />
 						<div className="label onovo-text-black onovo-circle-text-label">{Data.label}</div>
 					</div>

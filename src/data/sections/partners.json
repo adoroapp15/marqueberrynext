@@ -10,7 +10,7 @@
         {
             "link": "https://sportstar.thehindu.com/",
             "label": "Visit Website",
-            "image": "/images/star.png"
+            "image": "/images/startsports.png"
         },
         {
             "link": "https://www.primevideo.com/region/eu/offers/nonprimehomepage/ref=dv_web_force_root",
@@ -38,9 +38,9 @@
             "image": "/images/stargold.png"
         },
         {
-            "link": "https://www.ruskmedia.com/",
+            "link": "https://www.netflix.com/in/",
             "label": "Visit Website",
-            "image": "/images/Rusk.png"
+            "image": "/images/netflix.png"
         }
     ]
 }

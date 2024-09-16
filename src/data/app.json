@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Marqueberry",
+        "siteName": "Marque Berry | a meme company",
         "preloader": true,
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "portfolio": {
@@ -113,7 +113,7 @@
                 "alt": "image"
             }
         ],
-        "copy": "© 2023 Marqueberry  All rights reserved."
+        "copy": "© 2023 Marque Berry | a meme company  All rights reserved."
     },
     "social": [
         {
@@ -122,7 +122,7 @@
             "title": "Facebook"
         },
         {
-            "link": "https://x.com/Marqueberry1",
+            "link": "https://x.com/Marque Berry | a meme company1",
             "icon": "fab fa-twitter",
             "title": "Twitter"
         },
