@@ -2,9 +2,9 @@
 # preview
 title: Seeding Citroën Team Dhoni Campaign
 image: /images/Seeding.jpeg
-category: Marketing
-category_slug: marketing
-type: UI/UX Design, Mobile Apps, Interactive Design
+# category: Marketing
+# category_slug: marketing
+#type: UI/UX Design, Mobile Apps, Interactive Design
 team: Alexander Bravo
 date: 2021-2023
 
@@ -36,7 +36,7 @@ date: 2021-2023
 #       alt: "image"
 
 additional:
-  heading: Project Result
+  # heading: Project Result
   content: |
     <p><strong>Introduction:</strong></p>
     <p>Citroën India launched an ambitious campaign featuring MS Dhoni as their brand ambassador. The "Do What Matters" campaign kicked off with the Citroën Team Dhoni initiative, aimed at rallying fans to support the Indian Cricket Team during the T20 World Championship. This case study outlines the campaign's objectives, execution, and impressive results.</p>

@@ -2,9 +2,9 @@
 #preview
 title: Biryani By Kilo (BBK) Campaign
 image: /images/BBK.jpeg
-category: Branding
-category_slug: branding
-type: Art Direction, Branding, Interactive Design
+# category: Branding
+# category_slug: branding
+# type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
 

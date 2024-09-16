@@ -1,41 +1,13 @@
 ---
-title: Kill Movie Promotion - Amplifying Buzz Through Humorous Influencer Collaborations
+title: Kill Movie Promotion - Amplifying Buzz
 image: /images/Kill.jpeg
-category: Branding
-category_slug: branding
-type: Art Direction, Branding, Interactive Design
+# category: Branding
+# category_slug: branding
+# type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
-
-# # Full Details
-# details:
-#   items:
-#     - label: "Client:"
-#       value: John Smith
-#     - label: "Start:"
-#       value: Dec 18, 2022
-#     - label: "Ending:"
-#       value: Mar 18, 2023
-#     - label: "Website:"
-#       value: bslthemes.com
-
-# gallery:
-#   items:
-#     - image: /images/project-2-2-1200x982.jpg
-#       alt: "image"
-#     - image: /images/project-2-1200x988.jpg
-#       alt: "image"
-#     - image: /images/project-4.jpg
-#       alt: "image"
-#     - image: /images/project-3-1200x750.jpg
-#       alt: "image"
-#     - image: /images/project-1-1080x800.jpg
-#       alt: "image"
-#     - image: /images/project-8-1080x800.jpg
-#       alt: "image"
-
 additional:
-  heading: Kill Movie Promotion- Amplifying Buzz Through Humorous Influencer Collaborations
+  # heading: Kill Movie Promotion- Amplifying Buzz Through Humorous Influencer Collaborations
   content: 
     <p><strong>Campaign Objective</strong></p>
     <p><br>The primary goal of this campaign was to create buzz and drive engagement for the movie "Kill" by leveraging popular social media influencers and creators. The aim was to reach the correct target audience and generate strong word-of-mouth promotion through humorous and relatable content.</p>

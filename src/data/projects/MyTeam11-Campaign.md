@@ -2,9 +2,9 @@
 title: MyTeam11 Campaign 
 image: /images/MyTeam11.png
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
-category: Marketing
-category_slug: marketing
-type: Art Direction, Branding, Interactive Design
+# category: Marketing
+# category_slug: marketing
+#type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
 ---
@@ -25,7 +25,6 @@ date: 2021-2023
 ![image](/images/project-1-1080x800.jpg)
 ![image](/images/project-8-1080x800.jpg) -->
 
-### Project Result
 
 #### Introduction:
 MyTeam11 collaborated with cricket star Shikhar Dhawan to promote their fantasy sports app. The campaign aimed to distribute the promotional video featuring Dhawan across various social media platforms with the help of influencers, meme pages, and other creators. The goal was to generate curiosity about the brand, drive app usage, and increase brand awareness among the youth of India.

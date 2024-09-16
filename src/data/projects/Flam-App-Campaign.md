@@ -1,9 +1,9 @@
 ---
 title: Flam App Campaign
 image: /images/Flam.png
-category: Design
-category_slug: design
-type: Marketing, Rendering, 3D Design
+# category: Design
+# category_slug: design
+# type: Marketing, Rendering, 3D Design
 team: Lina Watson
 date: 2021-2023
 ---
@@ -24,7 +24,6 @@ date: 2021-2023
 ![image](/images/project-1-1080x800.jpg)
 ![image](/images/project-8-1080x800.jpg) -->
 
-### Project Result
 
 #### Introduction:
 The Flam App campaign aimed to promote the app and drive downloads by showcasing its features and generating curiosity among potential users. The campaign leveraged various digital platforms to maximize reach and engagement, ultimately encouraging people to download and use the app.
