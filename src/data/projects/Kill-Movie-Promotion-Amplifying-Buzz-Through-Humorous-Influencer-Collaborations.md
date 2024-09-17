@@ -1,6 +1,6 @@
 ---
 title: Creator-Led Buzz for "Kill" Movie
-image: /images/Kill.jpeg
+image: /images/killl.avif
 # category: Branding
 # category_slug: branding
 # type: Art Direction, Branding, Interactive Design

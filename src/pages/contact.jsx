@@ -112,7 +112,7 @@ const Contact = () => {
                                 })
                                 .then(response => response.json())
                                 .then(data => {
-                                    if (data.success) {
+                                    if (data.status==200) {
                                         console.log("Form submission successful:", data);  // Log success
                                         alert("Thanks for your submission!");
                                     } else {
