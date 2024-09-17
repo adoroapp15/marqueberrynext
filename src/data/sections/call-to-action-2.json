@@ -5,7 +5,7 @@
     "bg_image": "/images/map.jpg",
     "social": [
         {
-            "link": "https://x.com/Marque Berry | a meme company1",
+            "link": "https://x.com/marqueberry1?lang=en",
             "icon": "fab fa-twitter",
             "title": "Twitter"
         },
@@ -15,7 +15,7 @@
             "title": "LinkedIn"
         },
         {
-            "link": "https://www.facebook.com/people/Marque Berry | a meme company/100063915163762/",
+            "link": "https://m.facebook.com/100063915163762/",
             "icon": "fab fa-facebook",
             "title": "Facebbok"
         }

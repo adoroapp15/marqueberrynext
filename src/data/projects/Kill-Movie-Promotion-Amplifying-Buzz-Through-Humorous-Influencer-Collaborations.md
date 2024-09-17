@@ -1,5 +1,5 @@
 ---
-title: Kill Movie Promotion - Amplifying Buzz
+title: Led Buzz for "Kill" Movie
 image: /images/Kill.jpeg
 # category: Branding
 # category_slug: branding
@@ -16,7 +16,9 @@ additional:
     <p><strong>Strategy</strong></p>
     <p><br>The strategy involved collaborating with three popular social media creators who have a significant following and are known for their humorous takes on male-centric themes.</p>
     <p><strong>Execution:</strong></p>
-    <p><br>Hustling Ranjan and His Group<br>Why this idea This approach ensured the campaign reached the right audience for the movie while fostering word-of-mouth promotion.<br>Content Hustling Ranjan and his fellow creators are popular on Instagram for their humorous reels about male friendships. They created a series of reels specifically for "Kill," highlighting the movie's themes and adding their comedic touch.</p>
+    <p><br><strong>Hustling Ranjan and His Group</strong><br></p>
+    <p>
+    Why this idea This approach ensured the campaign reached the right audience for the movie while fostering word-of-mouth promotion.<br>Content Hustling Ranjan and his fellow creators are popular on Instagram for their humorous reels about male friendships. They created a series of reels specifically for "Kill," highlighting the movie's themes and adding their comedic touch.</p>
     <p><br><strong>Satish Ray&rsquo;s Killer Review</strong></p>
     <p><br>Why this idea Satish Ray's unique style of hyping things up without actually hyping them was ideal for promoting "Kill" and resonating with the target audience.<br>Content Satish Ray's popular IP "Maza Nahi Aaya" was utilized to create a signature review of "Kill," blending his unique humor with key elements from the movie.</p>
     <p><br><strong>Sanyam Sharma&rsquo;s Analysis</strong></p>

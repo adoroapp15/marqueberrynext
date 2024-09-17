@@ -33,26 +33,6 @@
                 "label": "Service",
                 "link": "/services",
                 "children": [
-                    {
-                        "label": "Distribution",
-                        "link": "/services/distribution",
-                        "children": 0
-                    },
-                    {
-                        "label": "Studio",
-                        "link": "/services/studio",
-                        "children": 0
-                    },
-                    {
-                        "label": "Viral",
-                        "link": "/services/viral",
-                        "children": 0
-                    },
-                    {
-                        "label": "adoro",
-                        "link": "https://adoro.social/",
-                        "children": 0
-                    }
                 ]
             },
             {
@@ -122,7 +102,7 @@
             "title": "Facebook"
         },
         {
-            "link": "https://x.com/Marque Berry | a meme company1",
+            "link": "https://x.com/marqueberry1?lang=en",
             "icon": "fab fa-twitter",
             "title": "Twitter"
         },

@@ -8,41 +8,6 @@ image: /images/BBK.jpeg
 team: Thomas Jackki
 date: 2021-2023
 
-#full details
-# details:
-#     items:
-#         - label: "Client:"
-#           value: John Smith
-
-#         - label: "Start:"
-#           value: Dec 18, 2022
-        
-#         - label: "Ending:"
-#           value: Mar 18, 2023
-        
-#         - label: "Website:"
-#           value: bslthemes.com
-
-# gallery: 
-#     items:
-#         - image: /images/project-2-2-1200x982.jpg
-#           alt: "image"
-
-#         - image: /images/project-2-1200x988.jpg
-#           alt: "image"
-
-#         - image: /images/project-4.jpg
-#           alt: "image"
-        
-#         - image: /images/project-3-1200x750.jpg
-#           alt: "image"
-
-#         - image: /images/project-1-1080x800.jpg
-#           alt: "image"
-        
-#         - image: /images/project-8-1080x800.jpg
-#           alt: "image"
-
 additional:
     heading: Biryani By Kilo (BBK) Campaign
     content: "
