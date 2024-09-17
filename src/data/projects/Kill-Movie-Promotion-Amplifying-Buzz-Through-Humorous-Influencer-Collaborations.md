@@ -1,5 +1,5 @@
 ---
-title: Led Buzz for "Kill" Movie
+title: Creator-Led Buzz for "Kill" Movie
 image: /images/Kill.jpeg
 # category: Branding
 # category_slug: branding
