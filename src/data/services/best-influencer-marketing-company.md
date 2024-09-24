@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/influ.jpg"
+image: "/images/video.gif"
 alt: "Viral Meme Campaigns"
 icon: "/images/icn1.png"
 title: "Influencer Marketing"
