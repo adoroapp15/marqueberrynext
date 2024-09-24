@@ -33,12 +33,29 @@
                 "label": "Service",
                 "link": "/services",
                 "children": [
+                    
                 ]
             },
             {
-                "label": "Blog",
-                "link": "/blog",
+                "label": "Resources",
+                "link": "/",
                 "children": [
+                    {
+                        "label": "Blog",
+                        "link": "/blog",
+                        "children": 0
+                    },
+                    {
+                        "label": "Showcase",
+                        "link": "/projects",
+                        "children": 0
+                    },
+                    {
+                        "label": "Industry Report",
+                        "link": "https://marqueberry.substack.com/",
+                        "children": 0
+                    }
+                    
                 ]
             },
             {
