@@ -1,7 +1,7 @@
 ---
 #preview details
-image: "/images/video.gif"
-alt: "Viral Meme Campaigns"
+image: "/images/video1.gif"
+alt: "Viral Meme Campaign"
 icon: "/images/icn1.png"
 title: "Influencer Marketing"
 short: "Leverage the power of influencers to promote your brand with authentic, relatable content that reaches millions."

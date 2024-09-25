@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/posts1.jpg"
+image: "/images/video2.gif"
 icon: "/images/icn2.png"
 alt: "Viral Meme Campaigns"
 title: "Social Media Management"

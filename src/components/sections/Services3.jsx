@@ -57,7 +57,10 @@ const Services3Section = ({ services }) => {
                                             <span className="img" style={{"backgroundImage": "url("+item.image+")"}} />
                                         </div>
                                         <h5 className="title">
-                                            <a href={`/services/${item.id}`}>
+                                            <a 
+                                              href={item.title === 'adoro' ? 'https://adoro.social/' : `/services/${item.id}`}
+                                              target={item.title === 'adoro' ? '_blank' : '_self'}
+                                            >
                                                 <span className="num">
                                                     <span data-splitting data-onovo-scroll> 0{key+1}. </span>
                                                 </span>

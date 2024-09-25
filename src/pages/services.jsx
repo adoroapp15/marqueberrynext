@@ -40,30 +40,45 @@ const Services = (props) => {
 
 			{/* Services items */}
 			<div className="onovo-services-list">
-				{props.services.map((item, key) => (
-				<div key={`services-item-${key}`} className="onovo-service-item-list">
-					<div className="onovo-service-item-list-inner">
-						<div className="image onovo-hover-1">
-							<Link href={`/services/${item.id}`}>
-								<img src={item.icon} alt={item.title} />
-							</Link>
-						</div>
-						<div className="num">
-							<span> 0{key+1}. </span>
-						</div>
-						<h5 className="title">
-							<Link href={`/services/${item.id}`}>
-								<span>{item.title}</span>
-							</Link>
-						</h5>
-						<div className="onovo-text">
-							<div>
-								<p>{item.short}</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				))}
+{props.services.map((item, key) => {
+  return (
+    <div key={`services-item-${key}`} className="onovo-service-item-list">
+      <div className="onovo-service-item-list-inner">
+        <div className="image onovo-hover-1">
+          {item.title === "adoro" ? (
+            <a href="https://adoro.social/" target="_blank" rel="noopener noreferrer">
+              <img src={item.icon} alt={item.title} />
+            </a>
+          ) : (
+            <Link href={`/services/${item.id}`}>
+              <img src={item.icon} alt={item.title} />
+            </Link>
+          )}
+        </div>
+        <div className="num">
+          <span> 0{key + 1}. </span>
+        </div>
+        <h5 className="title">
+          {item.title === "adoro" ? (
+            <a href="https://adoro.social/" target="_blank" rel="noopener noreferrer">
+              <span>{item.title}</span>
+            </a>
+          ) : (
+            <Link href={`/services/${item.id}`}>
+              <span>{item.title}</span>
+            </Link>
+          )}
+        </h5>
+        <div className="onovo-text">
+          <div>
+            <p>{item.short}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+})}
+
 
 			</div>
 			

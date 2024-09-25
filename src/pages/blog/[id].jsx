@@ -53,7 +53,6 @@ const PostsDetail = ( props ) => {
       {/* Onovo Blog Detail */}
 			<section className="onovo-section onovo-post gap-top-140">
 				<div className="container">
-
 					{/* Image */}
 					<div className="onovo-post-pic" data-onovo-overlay data-onovo-scroll>
 						<img src={postData.image} alt={postData.title} />

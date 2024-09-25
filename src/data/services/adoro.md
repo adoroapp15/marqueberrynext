@@ -1,10 +1,10 @@
 ---
 #preview details
-image: "/images/post2.jpg"
+image: "/images/adoro.png"
 icon: "/images/icn3.png"
 alt: "Viral Meme Campaigns"
-title: "Meme Content Creation"
-short: "Crafting witty, shareable memes that align with your brand voice, ensuring maximum reach and interaction on social media."
+title: "adoro"
+short: "Aiming to build a community that empowers creators and their creativity, beyond all boundaries."
 
 #full details
 accordion:
