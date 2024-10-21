@@ -134,7 +134,7 @@ Our team is a blend of meme connoisseurs, social media strategists, and creative
 				</div>
 
 				{/* Gallery */}
-				<div className="row gap-top-100">
+				{/* <div className="row gap-top-100">
 					<div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 						<a href="/images/posts1.jpg" className="mfp-image">
 							<img src="/images/about.jpg" alt="" />
@@ -145,7 +145,7 @@ Our team is a blend of meme connoisseurs, social media strategists, and creative
 							<img src="/images/about1.jpg" alt="" />
 						</a>
 					</div>
-				</div>
+				</div> */}
 
 			</div>
 		</section>

@@ -5,10 +5,28 @@
       "static/chunks/src_components_SplitScrollAnimation_jsx.js"
     ]
   },
-  "projects.jsx -> @components/ProjectsGrid": {
-    "id": "projects.jsx -> @components/ProjectsGrid",
+  "best-meme-marketing-company-india.jsx -> @components/sliders/Hero3": {
+    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/Hero3",
     "files": [
-      "static/chunks/src_components_ProjectsGrid_jsx.js"
+      "static/chunks/src_components_sliders_Hero3_jsx.js"
+    ]
+  },
+  "best-meme-marketing-company-india.jsx -> @components/sliders/History": {
+    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/History",
+    "files": [
+      "static/chunks/src_components_sliders_History_jsx.js"
+    ]
+  },
+  "best-meme-marketing-company-india.jsx -> @components/sliders/LatestPosts": {
+    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/LatestPosts",
+    "files": [
+      "static/chunks/src_components_sliders_LatestPosts_jsx.js"
+    ]
+  },
+  "best-meme-marketing-company-india.jsx -> @components/sliders/Testimonial2": {
+    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/Testimonial2",
+    "files": [
+      "static/chunks/src_components_sliders_Testimonial2_jsx.js"
     ]
   }
 }
