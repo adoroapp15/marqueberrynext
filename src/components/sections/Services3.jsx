@@ -58,7 +58,7 @@ const Services3Section = ({ services }) => {
                                         </div>
                                         <h5 className="title">
                                             <a 
-                                              href={item.title === 'adoro' ? 'https://adoro.social/' : `/services/${item.id}`}
+                                              href={item.title === 'adoro' ? 'https://www.adoro.social/' : `/services/${item.id}`}
                                               target={item.title === 'adoro' ? '_blank' : '_self'}
                                             >
                                                 <span className="num">

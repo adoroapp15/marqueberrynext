@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/best-meme-marketing-company-india": "pages/best-meme-marketing-company-india.js",
-  "/services/[id]": "pages/services/[id].js",
-  "/services": "pages/services.js"
+  "/best-meme-marketing-company-india": "pages/best-meme-marketing-company-india.js"
 }

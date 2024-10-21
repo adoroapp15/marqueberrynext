@@ -46,7 +46,7 @@ const Services = (props) => {
       <div className="onovo-service-item-list-inner">
         <div className="image onovo-hover-1">
           {item.title === "adoro" ? (
-            <a href="https://adoro.social/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.adoro.social/" target="_blank" rel="noopener noreferrer">
               <img src={item.icon} alt={item.title} />
             </a>
           ) : (
@@ -60,7 +60,7 @@ const Services = (props) => {
         </div>
         <h5 className="title">
           {item.title === "adoro" ? (
-            <a href="https://adoro.social/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.adoro.social/" target="_blank" rel="noopener noreferrer">
               <span>{item.title}</span>
             </a>
           ) : (
