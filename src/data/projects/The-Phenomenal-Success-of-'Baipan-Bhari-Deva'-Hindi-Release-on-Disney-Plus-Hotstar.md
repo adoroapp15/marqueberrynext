@@ -1,5 +1,5 @@
 ---
-title: "The Phenomenal Success of 'Baipan Bhari Deva' Hindi Release on Disney Plus Hotstar"
+title: "Phenomenal Success of 'Baipan Bhari Deva'"
 image: "/images/The-Phenomenal-Success-of-_Baipan-Bhari-Deva_-Hindi-Release-on-Disney-Plus-Hotstar_1718351391538.png"
 team: "Thomas Jackki"
 date: "2021-2023"

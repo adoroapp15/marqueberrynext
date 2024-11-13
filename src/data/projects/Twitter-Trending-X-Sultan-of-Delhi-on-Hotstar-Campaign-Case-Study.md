@@ -1,5 +1,5 @@
 ---
-title: "Twitter X Sultan of Delhi on Hotstar Campaign Case Study"
+title: "Twitter X Sultan of Delhi on Hotstar"
 image: "/images/Twitter Trending X Sultan of Delhi on Hotstar Campaign Case Study_1721649656097.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"

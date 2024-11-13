@@ -1,5 +1,5 @@
 ---
-title: "Amazon Prime Video: Carnival Festival Campaign Case Study"
+title: "Carnival Festival Campaign Case Study"
 image: "/images/Amazon-Prime-Video_-Carnival-Festival-Campaign-Case-Study-_1721649023657.png"
 team: "Thomas Jackki"
 date: "2021-2023"

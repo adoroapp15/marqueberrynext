@@ -1,5 +1,5 @@
 ---
-title: "Twitter X MaxViewOnHotstar Campaign Case Study"
+title: "Twitter X MaxView On Hotstar"
 image: "/images/Twitter-X-MaxViewOnHotstar-Campaign-Case-Study_1721649578384.png"
 # category: Branding
 # category_slug: branding
