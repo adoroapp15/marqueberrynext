@@ -1,6 +1,6 @@
 ---
 title: "Constable Girpade"
-image: "/images/Constable Girpade_ Strategic Marketing and Execution for a Comedy Drama Featuring Internet Sensations_1705058700734.jpeg"
+image: "/images/constablegirpade.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
 additional:

@@ -1,6 +1,6 @@
 ---
 title: Alright x Marque Berry Campaign Case Study
-image:  /images/Alright-x-Marque-Berry-Campaign-Case-Study_1721650169000.png
+image:  /images/dude.jpeg
 team: Thomas Jackki
 date: 2021-2023
 additional:

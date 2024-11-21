@@ -1,6 +1,6 @@
 ---
 title: "Salaar Campaign Case Study"
-image: "/images/Salaar Campaign Case Study_1721648722462.png"
+image: "/images/salaar.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
 additional:

@@ -1,6 +1,6 @@
 ---
 title: "Twitter X MaxView On Hotstar"
-image: "/images/Twitter-X-MaxViewOnHotstar-Campaign-Case-Study_1721649578384.png"
+image: "/images/maxview.jpeg"
 # category: Branding
 # category_slug: branding
 # type: Art Direction, Branding, Interactive Design

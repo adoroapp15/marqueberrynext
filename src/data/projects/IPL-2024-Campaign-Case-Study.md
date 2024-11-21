@@ -1,6 +1,6 @@
 ---
 title: "IPL 2024 Campaign Case Study"
-image: "/images/IPL 2024 Campaign Case Study_1721648559531.jpeg"
+image: "/images/IPL.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
 additional:

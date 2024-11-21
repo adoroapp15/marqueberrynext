@@ -1,6 +1,6 @@
 ---
 title: "Bloody Daddy on Jio Studios"
-image: "/images/Bloody_daddy.jpg"
+image: "/images/bloodydaddy.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
 additional:

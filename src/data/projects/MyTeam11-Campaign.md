@@ -1,6 +1,6 @@
 ---
 title: MyTeam11 Campaign 
-image: /images/MyTeam11.png
+image: /images/myteam11.jpeg
 short: "A modern, technology-enabled, wellness-focused workspace and sustainable office…"
 # category: Marketing
 # category_slug: marketing

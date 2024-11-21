@@ -1,6 +1,6 @@
 ---
 title: Flam App Campaign
-image: /images/Flam.png
+image: /images/flam.jpeg
 # category: Design
 # category_slug: design
 # type: Marketing, Rendering, 3D Design

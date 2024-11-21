@@ -1,6 +1,6 @@
 ---
 title: "The Triumph of Dance+ Pro on Hotstar"
-image: "/images/The-Triumph-of-Dance-Pro-on-Hotstar_1718351469686.png"
+image: "/images/dance.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
 additional:
