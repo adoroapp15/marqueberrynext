@@ -22,22 +22,6 @@ additional:
     <p>The show attracted significant interest from sponsors due to its adaptable format, which is ideal for content integrations. Originally made for TV, Dance+ Pro was effectively adapted for digital to target younger audiences, making it a valuable investment for sponsors looking to engage this demographic.</p>
 
     <h2>Observations</h2>
-    <h3>IPL Meme Seeding Plan</h3>
-    <p>The IPL meme seeding plan was an integral part of our strategy. Here are the key metrics and outcomes:</p>
-    <ul>
-      <li><strong>Pages Involved:</strong> 313</li>
-      <li><strong>Posts and Reels:</strong> 493</li>
-      <li><strong>Total Follower Base:</strong> 313 Million</li>
-      <li><strong>Expected Reach:</strong> 40 Million</li>
-      <li><strong>Achieved Reach:</strong> 54 Million</li>
-    </ul>
-    <p>The campaign garnered significant engagement:</p>
-    <ul>
-      <li><strong>Likes:</strong> 2.8 Million</li>
-      <li><strong>Total Engagements:</strong> 3.2 Million</li>
-    </ul>
-    <p>The success of this plan demonstrated the effectiveness of meme seeding in amplifying reach and engagement.</p>
-
     <h3>Dance+ Pro Campaign</h3>
     <p>The Dance+ Pro campaign also achieved remarkable success through a targeted seeding plan:</p>
     <ul>
@@ -53,7 +37,7 @@ additional:
     <p>These numbers indicate the campaign's viral nature and its ability to captivate and engage a broad audience.</p>
 
     <h2>Conclusion</h2>
-    <p>Both the IPL meme plan and the Dance+ Pro campaign exceeded expectations, achieving remarkable reach and engagement. Their success was driven by strategic influencer engagement and high-quality content, resulting in significant interactions and shares.</p>
+    <p>The Dance+ Pro campaign exceeded expectations, achieving remarkable reach and engagement. Their success was driven by strategic influencer engagement and high-quality content, resulting in significant interactions and shares.</p>
     <p>The Dance+ Pro initiative on Hotstar successfully broadened the show's reach and captivated a diverse audience, proving the power of strategic digital adaptation and influencer marketing in enhancing viewer engagement and expanding the audience base.</p>
     <p>For more captivating dance performances and updates, follow Dance+ Pro on Hotstar and join us in celebrating the art of dance.</p>
 ---
