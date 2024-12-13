@@ -8,14 +8,14 @@ additional:
     <p>The Deadpool and Wolverine campaign was launched to generate buzz and anticipation for the Hindi release of Deadpool 3 on Hotstar. Targeting action movie enthusiasts, Deadpool fans, and the Hindi-speaking audience, the campaign used a strategic three-peg approach to maximize engagement, awareness, and FOMO (fear of missing out).</p>
 
     <h2>Strategy</h2>
-    <h6>Peg 1: Highlight the Unique Entertainment Value of Deadpool 3 in Hindi</h6>
-    <h6> This phase encouraged audiences who had already seen the film in English to experience the added humor and cultural relevance of the Hindi version.</h6>
+    <p>Peg 1: Highlight the Unique Entertainment Value of Deadpool 3 in Hindi</p>
+    <p> This phase encouraged audiences who had already seen the film in English to experience the added humor and cultural relevance of the Hindi version.</p>
 
-    <h6>Peg 2: Drive Awareness of Deadpool 3 Now Streaming in Hindi</h6>
-    <h6>The focus here was on ensuring that a broad audience across various platforms knew that the Hindi version of Deadpool 3 was now available for streaming.</h6>
+    <p>Peg 2: Drive Awareness of Deadpool 3 Now Streaming in Hindi</p>
+    <p>The focus here was on ensuring that a broad audience across various platforms knew that the Hindi version of Deadpool 3 was now available for streaming.</p>
 
-    <h6>Peg 3: Generate FOMO (Fear of Missing Out)</h6>
-    <h6> This phase capitalized on the fear of missing out, encouraging people who hadn't yet watched Deadpool 3 in Hindi to stream it immediately, emphasizing the experience they were missing.</h6>
+    <p>Peg 3: Generate FOMO (Fear of Missing Out)</p>
+    <p> This phase capitalized on the fear of missing out, encouraging people who hadn't yet watched Deadpool 3 in Hindi to stream it immediately, emphasizing the experience they were missing.</p>
 
     <h2>Campaign Results:</h2>
     <ul>
@@ -32,6 +32,13 @@ additional:
       <li><strong>Achieved Views:</strong>  76 million</li>
       <li><strong>Likes:</strong> 4.4 million+</li>
       <li><strong>Shares:</strong> 338,869</li>
+    </ul>
+        <h2>Metrices:</h2>
+    <ul>
+      <li><strong>Instagram Views & Watch Time:</strong> Measured to track user engagement and campaign success.</li>
+      <li><strong>Increased Follower Count:</strong>Positive growth in followers for the brand and show-related pages.</li>
+      <li><strong>Sentiment Analysis:</strong>Strong positive sentiment from viewers, as evidenced by the comments and shares.</li>
+
     </ul>
     <h2>Conclusion</h2>
     <p>The Deadpool and Wolverine campaign successfully leveraged a strategic approach to promote the Hindi release of Deadpool 3 on Hotstar. The three-peg strategy effectively increased awareness, generated excitement, and created a sense of FOMO, resulting in impressive engagement metrics and a viral buzz across social media platforms. The campaign's success highlights the power of tailored content and meme seeding in amplifying buzz around a major entertainment release.</p>
