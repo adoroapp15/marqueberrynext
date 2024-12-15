@@ -33,7 +33,7 @@ additional:
       <li><strong>Likes:</strong> 4.4 million+</li>
       <li><strong>Shares:</strong> 338,869</li>
     </ul>
-        <h2>Metrices:</h2>
+        <h2>Metrics:</h2>
     <ul>
       <li><strong>Instagram Views & Watch Time:</strong> Measured to track user engagement and campaign success.</li>
       <li><strong>Increased Follower Count:</strong>Positive growth in followers for the brand and show-related pages.</li>
