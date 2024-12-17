@@ -97,7 +97,7 @@ const Contact = () => {
                             onSubmit = {(values, { setSubmitting }) => {
                                 console.log("Submitting form with values:", values);
                             
-                                fetch('https://backend-seven-gules.vercel.app/mail/contact', {
+                                fetch('https://api.adoro.social/mail/contact', {
                                     method: 'POST',
                                     body: JSON.stringify({
                                         full_name: values.name,

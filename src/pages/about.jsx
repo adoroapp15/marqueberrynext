@@ -1,6 +1,8 @@
 import { useEffect } from "react";
 import dynamic from "next/dynamic";
 import Layouts from "@layouts/Layouts";
+import Data from "@data/sections/video.json";
+
 
 import { getSortedTeamData } from "@library/team";
 import { getSortedServicesData } from "@library/services";
@@ -105,8 +107,8 @@ Our team is a blend of meme connoisseurs, social media strategists, and creative
 
 				{/* Video */}
 				<div className="onovo-video" data-onovo-overlay data-onovo-scroll>
-					<div className="image" onClick={ (e) => clickedVideoButton(e) } style={{"backgroundImage": "url(/images/hero.jpg)"}} />
-					<iframe className="js-video-iframe"></iframe>
+				<div className="image" onClick={ (e) => clickedVideoButton(e) } style={{"backgroundImage": "url(/images/thumbnail.jpeg)"}} />
+				<iframe className="js-video-iframe" data-src={"https://www.youtube.com/embed/"+Data.yt_video_id+"?showinfo=0&rel=0&autoplay=1"} />
 					<div className="play onovo-circle-text">
 						<div className="arrow" />
 						<div className="label onovo-text-black onovo-circle-text-label"> Play Video - Play Video - Play Video - </div>
