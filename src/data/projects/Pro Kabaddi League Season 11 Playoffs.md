@@ -3,6 +3,7 @@ title: "Pro Kabaddi League Season 11 Playoffs"
 image: "/images/pklogo.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 23
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

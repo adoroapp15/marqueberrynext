@@ -6,6 +6,7 @@ image: /images/Kill.jpeg
 # type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
+id: 17
 additional:
   # heading: Kill Movie Promotion- Amplifying Buzz Through Humorous Influencer Collaborations
   content: 

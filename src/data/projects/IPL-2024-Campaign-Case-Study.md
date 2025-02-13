@@ -3,6 +3,7 @@ title: "IPL 2024 Campaign Case Study"
 image: "/images/IPL.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 9
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

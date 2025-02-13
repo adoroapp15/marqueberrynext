@@ -49,10 +49,10 @@ const Services2Section = ( { introHidden, noPaddingBottom } ) => {
                                 </h5>
                                 <div className="list">
                                     <ul>
-                                        {item.list.map((elem, key2) => (
-                                        <li key={`services2-item-${key}-list-element-${key2}`}>
-                                            <Link className="onovo-lnk" href={item.link}>
-                                                <span data-splitting data-onovo-scroll>{elem}</span>
+                                    {item.list.map((elem, key2) => (
+                                        <li>
+                                            <Link className="onovo-lnk" href={elem.link}>
+                                                <span data-splitting data-onovo-scroll>{elem.name}</span>
                                             </Link>
                                         </li>
                                         ))}

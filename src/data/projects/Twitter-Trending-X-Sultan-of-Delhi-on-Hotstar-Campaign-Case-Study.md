@@ -3,6 +3,7 @@ title: "Twitter X Sultan of Delhi on Hotstar"
 image: "/images/sultan.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 14
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

@@ -3,6 +3,7 @@ title: "The Legend Of Hanuman"
 image: "/images/Legend.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 21
 additional:
   content: |
     <p>The campaign for The Legend of Hanuman aimed to drive excitement and engagement by collaborating with spiritual influencers. The strategy focused on creating content that resonated with the target audience, emphasizing key themes of the show and encouraging viewers to connect with the series on a deeper level.</p>

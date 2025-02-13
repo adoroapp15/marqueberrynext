@@ -3,6 +3,7 @@ title: "The Triumph of Dance+ Pro on Hotstar"
 image: "/images/dance.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 18
 additional:
   content: |
     <p>Dance+ Pro is an exhilarating dance reality show available on Hotstar, designed to showcase the immense talent and creativity of dancers from across the country. Elevating the realm of dance reality shows, Dance+ Pro offers a compelling mix of talent, innovation, and inspiration, standing as a testament to the power of dance to connect, inspire, and entertain audiences.</p>

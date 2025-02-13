@@ -9,45 +9,41 @@
     "items": [
         {
             "icon": "/images/icon.png",
-            "alt":"Meme Marketing India",
+            "alt": "Meme Marketing India",
             "title": "Distribution",
             "list": [
-                "Meme Distribution",
-                "Influencer Marketing",
-                "Celeb Management",
-                "Quora Marketing",
-                "Blog Post Outreach"
+                { "name": "Meme Distribution", "link": "/best-meme-marketing-company-india" },
+                { "name": "Influencer Marketing", "link": "/best-influencer-marketing-company" },
+                { "name": "Celeb Management", "link": "/best-meme-marketing-company-india" },
+                { "name": "Quora Marketing", "link": "/best-meme-marketing-company-india" },
+                { "name": "Blog Post Outreach", "link": "/best-meme-marketing-company-india" }
             ],
             "link": "/best-meme-marketing-company-india"
         },
         {
             "icon": "/images/icon1.png",
-            "alt":"Meme Marketing India",
+            "alt": "Meme Marketing India",
             "title": "Studio",
             "list": [
-                "Meme Creations",
-                "Content Creation",
-                "Social Media Management",
-                "Paid Ads Strategy"
+                { "name": "Meme Creations", "link": "/best-influencer-marketing-company" },
+                { "name": "Content Creation", "link": "/best-influencer-marketing-company" },
+                { "name": "Social Media Management", "link": "/best-influencer-marketing-company" },
+                { "name": "Paid Ads Strategy", "link": "/best-influencer-marketing-company" }
             ],
             "link": "/best-influencer-marketing-company"
         },
         {
             "icon": "/images/icon2.png",
-            "alt":"Meme Marketing India",
+            "alt": "Meme Marketing India",
             "title": "Virals",
             "list": [
-                "Twitter Trending",
-                "Spotify Plays",
-                "Reel Audio Use",
-                "YouTube Shorts",
-                "UGC Content"
+                { "name": "Twitter Trending", "link": "/services/best-social-media-management-company" },
+                { "name": "Spotify Plays", "link": "/services/best-social-media-management-company" },
+                { "name": "Reel Audio Use", "link": "/services/best-social-media-management-company" },
+                { "name": "YouTube Shorts", "link": "/services/best-social-media-management-company" },
+                { "name": "UGC Content", "link": "/services/best-social-media-management-company" }
             ],
             "link": "/services/best-social-media-management-company"
         }
     ]
 }
-
-
-
-

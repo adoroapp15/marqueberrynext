@@ -3,6 +3,7 @@ title: "Carnival Festival Campaign Case Study"
 image: "/images/carnival.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 2
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

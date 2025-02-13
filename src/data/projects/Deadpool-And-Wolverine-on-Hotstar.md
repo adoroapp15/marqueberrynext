@@ -3,6 +3,7 @@ title: "Deadpool and Wolverine on Hotstar"
 image: "/images/Deadpool.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 22
 additional:
   content: |
     <p>The Deadpool and Wolverine campaign was launched to generate buzz and anticipation for the Hindi release of Deadpool 3 on Hotstar. Targeting action movie enthusiasts, Deadpool fans, and the Hindi-speaking audience, the campaign used a strategic three-peg approach to maximize engagement, awareness, and FOMO (fear of missing out).</p>

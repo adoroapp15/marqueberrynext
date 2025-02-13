@@ -3,7 +3,9 @@ title: "Bloody Daddy on Jio Studios"
 image: "/images/bloodydaddy.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 4
 additional:
+
   content: |
     <p><strong>Introduction:</strong></p>
     <p><em>Bloody Daddy</em>, an Indian Hindi-language film starring Shahid Kapoor in the lead role as an anti-hero, is directed by Ali Abbas Zafar. This action thriller is hideously funny, unpredictable, brutal, and brave. At a time when content is evolving, characters are no longer strictly white or black but grey and realistic. Our task on the marketing end was to ensure the key message of the movie — that the character is flawed — was communicated clearly to the viewers.</p>

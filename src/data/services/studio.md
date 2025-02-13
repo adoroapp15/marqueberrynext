@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/post.jpg"
+image: "/images/STU.png"
 alt: "Viral Meme Campaigns"
 icon: "/images/icn.png"
 title: "Marque Berry Studio"

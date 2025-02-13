@@ -3,6 +3,7 @@ title: "Havmor Valentine's Day Campaign Case Study"
 image: "/images/Havmor-Valentine_s-Day-Campaign-Case-Study_1721648184670.png"
 team: "Thomas Jackki"
 date: "2021-2023"
+id: 8
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

@@ -7,6 +7,7 @@ short: "A modern, technology-enabled, wellness-focused workspace and sustainable
 #type: Art Direction, Branding, Interactive Design
 team: Thomas Jackki
 date: 2021-2023
+id: 10
 ---
 
 ## Full Details
