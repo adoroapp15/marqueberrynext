@@ -5,52 +5,22 @@
       "static/chunks/src_components_SplitScrollAnimation_jsx.js"
     ]
   },
-  "best-influencer-marketing-company.js -> @components/sliders/Hero3": {
-    "id": "best-influencer-marketing-company.js -> @components/sliders/Hero3",
+  "index.jsx -> @components/sections/Hero": {
+    "id": "index.jsx -> @components/sections/Hero",
     "files": [
-      "static/chunks/src_components_sliders_Hero3_jsx-_119d1.js"
+      "static/chunks/src_components_sections_Hero_jsx.js"
     ]
   },
-  "best-influencer-marketing-company.js -> @components/sliders/History": {
-    "id": "best-influencer-marketing-company.js -> @components/sliders/History",
+  "index.jsx -> @components/sliders/Testimonial": {
+    "id": "index.jsx -> @components/sliders/Testimonial",
     "files": [
-      "static/chunks/src_components_sliders_History_jsx-_2e141.js"
+      "static/chunks/src_components_sliders_Testimonial_jsx.js"
     ]
   },
-  "best-influencer-marketing-company.js -> @components/sliders/LatestPosts": {
-    "id": "best-influencer-marketing-company.js -> @components/sliders/LatestPosts",
+  "index.jsx -> @components/sliders/Ticker": {
+    "id": "index.jsx -> @components/sliders/Ticker",
     "files": [
-      "static/chunks/src_components_sliders_LatestPosts_jsx-_df081.js"
-    ]
-  },
-  "best-influencer-marketing-company.js -> @components/sliders/Testimonial2": {
-    "id": "best-influencer-marketing-company.js -> @components/sliders/Testimonial2",
-    "files": [
-      "static/chunks/src_components_sliders_Testimonial2_jsx-_f6b61.js"
-    ]
-  },
-  "best-meme-marketing-company-india.jsx -> @components/sliders/Hero3": {
-    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/Hero3",
-    "files": [
-      "static/chunks/src_components_sliders_Hero3_jsx-_119d0.js"
-    ]
-  },
-  "best-meme-marketing-company-india.jsx -> @components/sliders/History": {
-    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/History",
-    "files": [
-      "static/chunks/src_components_sliders_History_jsx-_2e140.js"
-    ]
-  },
-  "best-meme-marketing-company-india.jsx -> @components/sliders/LatestPosts": {
-    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/LatestPosts",
-    "files": [
-      "static/chunks/src_components_sliders_LatestPosts_jsx-_df080.js"
-    ]
-  },
-  "best-meme-marketing-company-india.jsx -> @components/sliders/Testimonial2": {
-    "id": "best-meme-marketing-company-india.jsx -> @components/sliders/Testimonial2",
-    "files": [
-      "static/chunks/src_components_sliders_Testimonial2_jsx-_f6b60.js"
+      "static/chunks/src_components_sliders_Ticker_jsx.js"
     ]
   }
 }

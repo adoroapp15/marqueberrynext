@@ -43,6 +43,32 @@ const DefaultFooter = () => {
 
                             {/* Privacy Policy */}
                             <div className="onovo-text onovo-text-white">
+                            <h5>Important Links</h5>
+                                    <figure className="gallery-item">
+                                        <Link href="./about">
+                                            <span>About us</span>
+                                        </Link>
+                                    </figure>
+                                    <figure className="gallery-item">
+                                        <Link href="./services">
+                                            <span>Services</span>
+                                        </Link>
+                                    </figure>
+                                    <figure className="gallery-item">
+                                        <Link href="./blog">
+                                            <span>Blogs</span>
+                                        </Link>
+                                    </figure>
+                                    <figure className="gallery-item">
+                                        <Link href="./projects">
+                                            <span>Case study</span>
+                                        </Link>
+                                    </figure>
+                                    <figure className="gallery-item">
+                                        <Link href="./contact">
+                                            <span>Contact Us</span>
+                                        </Link>
+                                    </figure>
                                 <div className="col-4 col-xs-6 col-sm-6 col-md-4 col-lg-4">
                                     <figure className="gallery-item">
                                         <Link href="./Policy">

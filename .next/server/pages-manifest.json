@@ -1,7 +1,7 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/best-meme-marketing-company-india": "pages/best-meme-marketing-company-india.js",
-  "/best-influencer-marketing-company": "pages/best-influencer-marketing-company.js"
+  "/_error": "pages/_error.js",
+  "/": "pages/index.js",
+  "/services": "pages/services.js"
 }
