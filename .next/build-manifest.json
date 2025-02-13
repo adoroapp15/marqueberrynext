@@ -25,6 +25,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/best-influencer-marketing-company": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/best-influencer-marketing-company.js"
+    ],
     "/best-meme-marketing-company-india": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

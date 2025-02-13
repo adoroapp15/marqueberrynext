@@ -1,0 +1,35 @@
+{
+    "subtitle": "Why Marque Berry | Influencer marketing ",
+    "title": "Authentic, Strategic, Creative, Results-Driven",
+    "button": {
+        "label": "Get Started",
+        "link": "https://dashboard.adoro.social/"
+    },
+    "items": [
+        {
+            "image": "/images/video1.gif",
+            "title": "Data-Driven Influencer Marketing Strategies",
+            "text": "We design influencer marketing campaigns using in-depth analytics, ensuring your brand connects with the right audience. Our top influencer marketing agency delivers maximum engagement and ROI through data-backed solutions."
+        },
+        {
+            "image": "/images/gif1.gif",
+            "title": "Authentic Brand-Influencer Collaborations",
+            "text": "Marque Berry fosters genuine partnerships with influencers to create impactful, relatable, and trust-driven content. As a leader in influencer marketing services, we help brands build authentic connections with their target audience."
+        },
+        {
+            "image": "/images/gif2.gif",
+            "title": "Customized Influencer Selection Process",
+            "text": "Our expert team identifies influencers who align with your brand values and audience preferences. With our influencer marketing agency expertise, we maximize campaign success and relevancy across all platforms."
+        },
+        {
+            "image": "/images/gif3.gif",
+          "title": "Seamless Campaign Execution and Management",
+            "text": "From ideation to implementation, we handle every detail of your campaign. Trust the best influencer marketing agency for timely delivery and optimal performance in all your marketing efforts."
+        },
+        {
+            "image": "/images/gif4.gif",
+          "title": "Measurable Results with Advanced Insights",
+            "text": "We provide detailed performance reports, analyzing reach, engagement, and ROI. Our influencer marketing experts refine strategies for greater success, helping your brand achieve its goals efficiently."
+        }
+    ]
+} 

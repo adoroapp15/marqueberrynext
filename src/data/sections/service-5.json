@@ -1,0 +1,16 @@
+{
+    
+    "subtitle": "Welcome to Marque Berry ",
+    "title": "India's Best Influencer <br> Marketing Company </br>",
+    "text": "At Marque Berry, the top influencer marketing agency, specializes in connecting brands with the right influencers to amplify their reach and impact. We craft data-driven strategies tailored to your goals, ensuring authentic collaborations that resonate with your target audience. From identifying the perfect influencers to executing creative campaigns, we handle every step of the process to deliver measurable results.",
+    "image": {
+        "url": "/images/marqueberry-about-logo.png",
+        "alt": "image"
+    },
+    "title2": "What We Provide",
+    "button": {
+        "link": "/services",
+        "label": "View All Services"
+    },
+    "numOfItems": 5
+}

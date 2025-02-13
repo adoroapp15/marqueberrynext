@@ -10,8 +10,8 @@
     },
     "header": {
         "logo": {
-            "image": "/images/marqueberry_light.png",
-            "image_white": "/images/marqueberry.png",
+            "image": "/images/800x200blackpng.png",
+            "image_white": "/images/500x200logowhite.png",
             "alt": "logo"
             
         },
