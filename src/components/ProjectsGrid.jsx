@@ -123,7 +123,7 @@ const ProjectsGrid = ({ projects, layout, cols, sideFilter, masonry, galleryMode
                             {layout == "grid" &&    
                                 <div className="onovo-portfolio-item">
                                     <div className={masonry ? "image" : "image image-square"} data-onovo-overlay data-onovo-scroll>
-                                        <Link href={galleryMode ? item.image : `/projects/${item.id}`} className="onovo-hover-3">
+                                        <Link href={galleryMode ? item.image : `/projects/${item.title}`} className="onovo-hover-3">
                                             <img src={item.image} alt={item.title} />
                                         </Link>
                                     </div>
