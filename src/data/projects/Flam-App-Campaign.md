@@ -5,7 +5,6 @@ image: /images/flam.jpeg
 # category_slug: design
 # type: Marketing, Rendering, 3D Design
 team: Lina Watson
-id: 6
 date: 2021-2023
 ---
 

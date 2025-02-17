@@ -3,7 +3,6 @@ title: "Constable Girpade"
 image: "/images/constablegirpade.jpeg"
 team: "Thomas Jackki"
 date: "2021-2023"
-id: 5
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

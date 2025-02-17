@@ -3,7 +3,6 @@ title: "Phenomenal Success of 'Baipan Bhari Deva'"
 image: "/images/The-Phenomenal-Success-of-_Baipan-Bhari-Deva_-Hindi-Release-on-Disney-Plus-Hotstar_1718351391538.png"
 team: "Thomas Jackki"
 date: "2021-2023"
-id: 13
 additional:
   content: |
     <p>The much-anticipated release of the Marathi blockbuster 'Baipan Bhari Deva' in Hindi on Disney Plus Hotstar has not only broadened the film’s audience but also introduced its compelling story to a broader demographic, transcending language barriers. Here’s a detailed look at the strategy and results of this remarkable achievement.</p>

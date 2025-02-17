@@ -3,7 +3,6 @@ title: "ShowTime 'Class' Album Campaign Case Study"
 image: "/images/ShowTime-_Class_-Album-Campaign-Case-Study_1721648380093.png"
 team: "Thomas Jackki"
 date: "2021-2023"
-id: 12
 additional:
   content: |
     <p><strong>Introduction:</strong></p>

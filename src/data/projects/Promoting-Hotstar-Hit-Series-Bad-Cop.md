@@ -3,7 +3,6 @@ title: Promoting Hotstar’s Hit Series, Bad Cop
 image: /images/badcop.jpeg
 team: Thomas Jackki
 date: 2021-2023
-id: 19
 additional:
   content: 
     <p><strong>Introduction:</strong></p>

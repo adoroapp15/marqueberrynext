@@ -63,7 +63,7 @@ export function getFeaturedProjectsData(ids) {
 
   // Sort posts by date
   return allData.sort((a, b) => {
-    if (a.id > b.id) {
+    if (a.id > b.id){
       return 1
     } else {
       return -1
