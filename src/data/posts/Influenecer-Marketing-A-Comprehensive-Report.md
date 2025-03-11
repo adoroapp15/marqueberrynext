@@ -1,6 +1,6 @@
 ---
 title: 'Influencer Marketing: A Comprehensive Report'
-date: '2024-11-28'
+date: '2025-03-01'
 image: "/images/blog2.png"
 short: "In recent years, influencer marketing has emerged as a powerful tool for brands to connect with their target audience. This report explores the effectiveness, trends, and impact of this marketing strategy in the digital landscape."
 category:

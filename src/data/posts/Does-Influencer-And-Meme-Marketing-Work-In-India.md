@@ -1,6 +1,6 @@
 ---
 title: 'Does Influencer And Meme Marketing Work In India'
-date: '2024-11-28'
+date: '2025-02-28'
 image: "/images/blog.png"
 short: "Influencer and Meme Marketing in India: A Comprehensive Report
 In recent years, influencer and meme marketing have emerged as powerful tools for brands to connect with their target audience in India. This report explores the effectiveness, trends, and impact of these marketing strategies in the Indian market."
