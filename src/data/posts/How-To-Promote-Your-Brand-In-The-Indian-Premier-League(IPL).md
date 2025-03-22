@@ -1,7 +1,7 @@
 ---
 title: 'How to Promote Your Brand in the Indian Premier League (IPL)'
 date: '2025-03-21'
-image: "/images/blog.png"
+image: "/images/blogsss.png"
 short: "The Indian Premier League (IPL) isn’t just cricket—it’s a cultural juggernaut that pulls in over 620 million viewers each season. For brands, it’s a golden ticket to massive visibility, engagement, and sales. But with big players like TATA and My11Circle dominating sponsorships, how does your brand stand out in the IPL frenzy? At Marque Berry, we’ve cracked the code on creative promotion, blending meme marketing with IPL’s high-energy vibe. Here’s your playbook to shine in IPL 2025."
 category:
     - Art
