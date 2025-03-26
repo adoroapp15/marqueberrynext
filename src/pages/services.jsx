@@ -45,8 +45,8 @@ const Services = (props) => {
     <div key={`services-item-${key}`} className="onovo-service-item-list">
       <div className="onovo-service-item-list-inner">
         <div className="image onovo-hover-1">
-          {item.title === "adoro" ? (
-            <a href="https://www.adoro.social/" target="_blank" rel="noopener noreferrer">
+          {item.title === "Influencer Marketing" ? (
+            <a href="/best-influencer-marketing-company" target="_blank" rel="noopener noreferrer">
               <img src={item.icon} alt={item.title} />
             </a>
           ) : (
