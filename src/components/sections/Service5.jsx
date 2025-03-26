@@ -58,8 +58,8 @@ const Services5Section = ({ services }) => {
                                         </div>
                                         <h5 className="title">
                                             <a 
-                                              href={item.title === 'adoro' ? 'https://www.adoro.social/' : `/services/${item.id}`}
-                                              target={item.title === 'adoro' ? '_blank' : '_self'}
+                                              href={item.title === 'Influencer Marketing' ? '/best-influencer-marketing-company' : `/services/${item.id}`}
+                                              target={item.title === 'Influencer Marketing' ? '_blank' : '_self'}
                                             >
                                                 <span className="num">
                                                     <span data-splitting data-onovo-scroll> 0{key+1}. </span>
