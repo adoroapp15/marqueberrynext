@@ -3,7 +3,7 @@ title: 'How to Measure the ROI of Meme Marketing for Your Brand'
 date: '2025-04-03'
 image: "/images/blog9.png"
 short: "Memes are hilarious, but do they pay off? If you’re a brand manager staring at a budget spreadsheet, that’s the million-dollar question. The answer: yes, meme marketing delivers ROI—if you know how to measure it. At Marque Berry, we’ve cracked the code, and we’re sharing how to track the impact of your meme campaigns."
-category:
+category: 
     - Art
 
 # #full details
