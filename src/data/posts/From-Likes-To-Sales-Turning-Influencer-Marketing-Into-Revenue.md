@@ -1,7 +1,7 @@
 ---
 title: 'From Likes to Sales: Turning Influencer Marketing into Revenue'
 date: '2025-04-07'
-image: "/images/blog11.png"
+image: "/images/blog12.jpeg"
 short: "Influencer marketing isn’t just about pretty posts—it’s about profit. At Marque Berry, we’ve cracked how to turn likes into sales, and we’re sharing the steps to make it happen for your brand in 2025."
 category: 
     - Art

@@ -1,7 +1,7 @@
 ---
 title: ' Top 10 Influencer Marketing Trends Brands Should Watch in 2025'
 date: '2025-04-04'
-image: "/images/blog10.png"
+image: "/images/blog13.jpeg"
 short: "Influencer marketing is evolving fast, and 2025 is bringing trends that could make or break your brand. At Marque Berry, we’re on the pulse, blending influencer tactics with our meme mastery. Here are the top 10 trends to watch this year."
 category: 
     - Art
