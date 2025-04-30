@@ -89,7 +89,7 @@ eval(__webpack_require__.ts("(function (global, factory) {\n\t true ? module.exp
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = JSON.parse('{"video":"/images/subheading.mp4","title":{"text":"We Make <br/>Everything","icon":"/images/title_icon.svg"},"subtitle":"A meme company with  <br/> a perfect blend of Pop culture, <br/> content and Design."}');
+module.exports = JSON.parse('{"video":"/images/subheading.mp4","title":{"text":"We Make <br/>Everything","icon":"/images/title_icon.svg"},"subtitle":"A meme company with  <br/> a perfect blend of Pop culture, <br/> Content and Design."}');
 
 /***/ })
 
