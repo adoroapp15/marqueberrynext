@@ -1,6 +1,6 @@
 ---
 title: 'How to Make Your Brand Speak Like a Real Person (Not a Corporate Bot)'
-date: '2025-05-05'
+date: '2025-05-03'
 image: "/images/blog19.png"
 short: "Tired of sounding boring online? Learn how to craft a brand voice that feels human, builds connection, and actually makes people want to follow you."
 category: 
