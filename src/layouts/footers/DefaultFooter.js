@@ -3,11 +3,16 @@ import appData from "@data/app.json";
 import { useEffect } from "react";
 import ImageView from "@components/ImageView";
 import { footerSticky } from "@common/utilits";
+import { useRouter } from "next/router"; // Import useRouter
+
 
 const DefaultFooter = () => {
+    const router = useRouter(); // Access the router
+
   useEffect(() => {
     footerSticky();
   }, []);
+  const isBlogPage = router.pathname === "/";
 
   return (
     <>
@@ -33,8 +38,8 @@ const DefaultFooter = () => {
                                 <h5>Get in Touch</h5>
                                 <p style={{"opacity": "0.6"}}>DLF CORPORATE GREENS, Tower-1, 608 Sector 74A, <br />Gurugram, Haryana 122101</p>
                                 <p style={{"opacity": "0.6"}}>
-                                    <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">  89206 32128, 074007 05595</a><br />
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">info@marqueberry.com</a>
+                                    <a  className="onovo-lnk lnk--white" target="_blank">  89206 32128, 074007 05595</a><br />
+                                    <a href="mailto:info@marqueberry.com" className="onovo-lnk lnk--white" target="_blank">info@marqueberry.com</a>
                                 </p>
                             </div>
 
@@ -42,6 +47,7 @@ const DefaultFooter = () => {
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 
                             {/* Privacy Policy */}
+                            {isBlogPage && (
                             <div className="onovo-text onovo-text-white">
                             <h5>Important Links</h5>
                                     <figure className="gallery-item">
@@ -77,6 +83,7 @@ const DefaultFooter = () => {
                                     </figure>
                                 </div>
                             </div>
+                            )}
 
                         </div>
                     </div>
